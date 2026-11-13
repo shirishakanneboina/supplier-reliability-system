@@ -6,9 +6,9 @@ import streamlit as st
 import plotly.express as px
 import plotly.graph_objects as go
 
-# =====================================================
+
 # PAGE CONFIGURATION
-# =====================================================
+
 
 st.set_page_config(
     page_title="Supplier Intelligence Platform",
@@ -19,9 +19,9 @@ st.set_page_config(
 
 DB_PATH = "data/exports/supplier_reliability.db"
 
-# =====================================================
+
 # PROFESSIONAL DESIGN
-# =====================================================
+
 
 st.markdown("""
 <style>
@@ -108,9 +108,9 @@ hr {
 </style>
 """, unsafe_allow_html=True)
 
-# =====================================================
+
 # LOAD DATABASE
-# =====================================================
+
 
 @st.cache_data
 def load_data():
@@ -176,9 +176,8 @@ for col in score_columns:
         report[col], errors="coerce"
     )
 
-# =====================================================
 # SIDEBAR NAVIGATION AND FILTERS
-# =====================================================
+
 
 st.sidebar.markdown("# 🏢 SUPPLIER")
 st.sidebar.markdown("### INTELLIGENCE PLATFORM")
@@ -268,9 +267,9 @@ filtered_orders = orders[
     orders["supplier_id"].isin(filtered_ids)
 ]
 
-# =====================================================
+
 # REUSABLE CHART DESIGN
-# =====================================================
+
 
 def chart_layout(fig, height=350):
     fig.update_layout(
@@ -303,9 +302,8 @@ def metric_row(items):
         column.metric(label, value)
 
 
-# =====================================================
 # HEADER
-# =====================================================
+
 
 st.markdown("""
 # 📊 SUPPLIER RELIABILITY
@@ -322,9 +320,9 @@ st.caption(
 
 st.divider()
 
-# =====================================================
+
 # PAGE 1: EXECUTIVE OVERVIEW
-# =====================================================
+
 
 if page == "Executive Overview":
 
@@ -410,7 +408,7 @@ if page == "Executive Overview":
         )
 
         chart_layout(fig)
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
     with right:
         st.markdown("#### Shipment Status")
@@ -434,7 +432,7 @@ if page == "Executive Overview":
 
             fig.update_traces(textposition="outside")
             chart_layout(fig)
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, width="stretch")
         else:
             show_empty("No shipment records available.")
 
@@ -466,7 +464,7 @@ if page == "Executive Overview":
 
             fig.update_traces(textinfo="percent+label")
             chart_layout(fig)
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, width="stretch")
         else:
             show_empty("No inspection records available.")
 
@@ -506,7 +504,7 @@ if page == "Executive Overview":
 
             fig.update_traces(textposition="outside")
             chart_layout(fig)
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, width="stretch")
         else:
             show_empty("No risk records available.")
 
@@ -525,7 +523,7 @@ if page == "Executive Overview":
                 ["supplier_id", "supplier_name",
                  "country", "overall_score"]
             ],
-            use_container_width=True,
+            width="stretch",
             hide_index=True
         )
 
@@ -537,7 +535,7 @@ if page == "Executive Overview":
                 ["supplier_id", "supplier_name",
                  "country", "overall_score"]
             ],
-            use_container_width=True,
+            width="stretch",
             hide_index=True
         )
 
@@ -548,9 +546,8 @@ if page == "Executive Overview":
         mime="text/csv"
     )
 
-# =====================================================
 # PAGE 2: SUPPLIER EXPLORER
-# =====================================================
+
 
 elif page == "Supplier Explorer":
 
@@ -620,7 +617,7 @@ elif page == "Supplier Explorer":
     )
 
     chart_layout(fig, 400)
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
     st.info(
         f"**Scoring explanation:** {supplier['score_explanation']}"
@@ -654,16 +651,16 @@ elif page == "Supplier Explorer":
     ])
 
     with st.expander("🚚 Shipment Records"):
-        st.dataframe(ss, use_container_width=True, hide_index=True)
+        st.dataframe(ss, width="stretch", hide_index=True)
 
     with st.expander("🧪 Inspection Records"):
-        st.dataframe(si, use_container_width=True, hide_index=True)
+        st.dataframe(si, width="stretch", hide_index=True)
 
     with st.expander("💰 Invoice Records"):
-        st.dataframe(sv, use_container_width=True, hide_index=True)
+        st.dataframe(sv, width="stretch", hide_index=True)
 
     with st.expander("⚠️ Risk Records"):
-        st.dataframe(sr, use_container_width=True, hide_index=True)
+        st.dataframe(sr, width="stretch", hide_index=True)
 
     st.download_button(
         "⬇ Download Individual Supplier Report",
@@ -739,7 +736,7 @@ elif page == "Anomaly Monitoring":
     fig.update_traces(textposition="outside")
     chart_layout(fig, 380)
 
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
     st.divider()
 
@@ -753,7 +750,7 @@ elif page == "Anomaly Monitoring":
     with t1:
         st.markdown("#### Delayed Shipment Records")
         st.warning(f"{len(delayed):,} delayed shipment records found.")
-        st.dataframe(delayed, use_container_width=True, hide_index=True)
+        st.dataframe(delayed, width="stretch", hide_index=True)
 
         st.download_button(
             "Download Delayed Shipments",
@@ -766,7 +763,7 @@ elif page == "Anomaly Monitoring":
     with t2:
         st.markdown("#### Failed Quality Inspections")
         st.error(f"{len(failed):,} failed inspection records found.")
-        st.dataframe(failed, use_container_width=True, hide_index=True)
+        st.dataframe(failed, width="stretch", hide_index=True)
 
         st.download_button(
             "Download Failed Inspections",
@@ -779,7 +776,7 @@ elif page == "Anomaly Monitoring":
     with t3:
         st.markdown("#### Overdue Invoice Records")
         st.warning(f"{len(overdue):,} overdue invoices found.")
-        st.dataframe(overdue, use_container_width=True, hide_index=True)
+        st.dataframe(overdue, width="stretch", hide_index=True)
 
         st.download_button(
             "Download Overdue Invoices",
@@ -792,7 +789,7 @@ elif page == "Anomaly Monitoring":
     with t4:
         st.markdown("#### Critical Supplier Risks")
         st.error(f"{len(critical):,} critical risk signals found.")
-        st.dataframe(critical, use_container_width=True, hide_index=True)
+        st.dataframe(critical, width="stretch", hide_index=True)
 
         st.download_button(
             "Download Critical Risks",
@@ -846,7 +843,7 @@ elif page == "Data Records":
 
     st.dataframe(
         selected_data,
-        use_container_width=True,
+        width="stretch",
         hide_index=True
     )
 
