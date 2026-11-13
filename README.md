@@ -2,13 +2,13 @@
 
 ## Project Overview
 
-The Supplier Reliability Scoring and Data Generation System is a Python-based application that generates synthetic supplier business data, stores it in a relational database, analyzes supplier performance and presents insights through an interactive dashboard.
+The Supplier Reliability Scoring and Data Generation System is a Python-based application that generates synthetic supplier business data, stores it in a relational database, analyzes supplier performance, and presents insights through an interactive dashboard.
 
 ## Objectives
 
 - Generate synthetic supplier-related datasets.
 - Maintain relational data using SQLite.
-- Analyze supplier delivery, quality and risk indicators.
+- Analyze supplier delivery, quality, and risk indicators.
 - Identify potential supplier reliability issues.
 - Visualize supplier performance through an interactive dashboard.
 
@@ -23,7 +23,7 @@ The Supplier Reliability Scoring and Data Generation System is a Python-based ap
 ## Key Features
 
 - Synthetic business data generation.
-- CSV, JSON and SQL exports.
+- CSV, JSON, and SQL exports.
 - SQLite database creation.
 - Primary key and foreign key validation.
 - Supplier reliability analysis.
@@ -34,7 +34,7 @@ The Supplier Reliability Scoring and Data Generation System is a Python-based ap
 
 ## Project Structure
 
-text
+```text
 Supplier-Reliability-System/
 │
 ├── data/
@@ -42,9 +42,18 @@ Supplier-Reliability-System/
 │   └── exports/
 │
 ├── src/
-│   └── main.py
+│   ├── main.py
+│   ├── supplier_generator.py
+│   ├── site_generator.py
+│   ├── contract_generator.py
+│   ├── purchase_order_generator.py
+│   ├── po_line_generator.py
+│   ├── shipment_generator.py
+│   ├── delivery_event_generator.py
+│   ├── inspection_generator.py
+│   ├── final_generators.py
+│   └── database_export.py
 │
-├── tests/
 ├── docs/
 │   └── PROJECT_DOCUMENTATION.md
 │
@@ -55,42 +64,49 @@ Supplier-Reliability-System/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
+```
 
 ## Installation
 
-Clone the repository:
+### 1. Clone the Repository
 
-bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd Supplier-Reliability-System
+```bash
+git clone https://github.com/shirishakanneboina/supplier-reliability-system.git
+```
 
+### 2. Navigate to the Project Directory
 
-Create a virtual environment:
+```bash
+cd supplier-reliability-system
+```
 
-bash
+### 3. Create a Virtual Environment
+
+```bash
 python -m venv venv
 ```
 
-Activate it on Windows PowerShell:
+### 4. Activate the Virtual Environment
 
-powershell
+For Windows PowerShell:
+
+```powershell
 .\venv\Scripts\Activate.ps1
+```
 
+### 5. Install Dependencies
 
-Install dependencies:
-
-bash
+```bash
 python -m pip install -r requirements.txt
-
+```
 
 ## Generate Data
 
 Run the data generation program:
 
-bash
+```bash
 python src/main.py
-
+```
 
 The generated database and export files are stored in the `data/exports/` directory.
 
@@ -98,15 +114,15 @@ The generated database and export files are stored in the `data/exports/` direct
 
 Start the Streamlit application:
 
-bash
+```bash
 python -m streamlit run app.py
-
+```
 
 The dashboard will open in your web browser.
 
 ## Database Tables
 
-The SQLite database contains:
+The SQLite database contains the following 11 tables:
 
 1. suppliers
 2. sites
@@ -122,13 +138,13 @@ The SQLite database contains:
 
 ## Validation
 
-The project includes database validation checks for primary key uniqueness, null identifiers, duplicate identifiers and foreign key integrity.
+The project includes database validation checks for primary key uniqueness, null identifiers, duplicate identifiers, and foreign key integrity.
 
 ## AI Usage Disclosure
 
-AI assistance was used for technical problem-solving, debugging, implementation guidance and documentation. The prompt history is maintained in the `prompts/` directory.
+AI assistance was used for technical problem-solving, debugging, implementation guidance, and documentation. The prompt history is maintained in the `prompts/` directory.
 
-The developer is responsible for reviewing, understanding and validating the submitted implementation.
+The developer is responsible for reviewing, understanding, and validating the submitted implementation.
 
 ## Limitations
 
@@ -141,7 +157,7 @@ The developer is responsible for reviewing, understanding and validating the sub
 - Expand automated test coverage.
 - Improve supplier risk prediction.
 - Add more analytical visualizations.
-- Evaluate scoring methodology using validated real-world datasets.
+- Evaluate the scoring methodology using validated real-world datasets.
 
 ## Disclaimer
 
