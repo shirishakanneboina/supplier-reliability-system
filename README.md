@@ -120,7 +120,7 @@ python -m streamlit run app.py
 
 The dashboard will open in your web browser.
 
-## Database Tables
+### Database Tables
 
 The SQLite database contains the following 11 tables:
 
@@ -159,6 +159,6 @@ The developer is responsible for reviewing, understanding, and validating the su
 - Add more analytical visualizations.
 - Evaluate the scoring methodology using validated real-world datasets.
 
-## Disclaimer
+# Disclaimer
 
 All generated business records are synthetic and are not actual supplier records.
