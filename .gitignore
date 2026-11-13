@@ -1,0 +1,23 @@
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# IDE
+.vscode/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Operating system
+.DS_Store
+Thumbs.db
