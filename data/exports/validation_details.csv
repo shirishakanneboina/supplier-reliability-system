@@ -1,0 +1,31 @@
+check_name,status,details
+Primary key: suppliers,PASS,Null or duplicate IDs: 0
+Primary key: sites,PASS,Null or duplicate IDs: 0
+Primary key: contracts,PASS,Null or duplicate IDs: 0
+Primary key: purchase_orders,PASS,Null or duplicate IDs: 0
+Primary key: po_lines,PASS,Null or duplicate IDs: 0
+Primary key: shipments,PASS,Null or duplicate IDs: 0
+Primary key: delivery_events,PASS,Null or duplicate IDs: 0
+Primary key: inspections,PASS,Null or duplicate IDs: 0
+Primary key: invoices,PASS,Null or duplicate IDs: 0
+Primary key: risk_signals,PASS,Null or duplicate IDs: 0
+Primary key: supplier_scores,PASS,Null or duplicate IDs: 0
+Foreign key: supplier_id,PASS,Invalid references: 0
+Foreign key: supplier_id,PASS,Invalid references: 0
+Foreign key: supplier_id,PASS,Invalid references: 0
+Foreign key: contract_id,PASS,Invalid references: 0
+Foreign key: purchase_order_id,PASS,Invalid references: 0
+Foreign key: purchase_order_id,PASS,Invalid references: 0
+Foreign key: supplier_id,PASS,Invalid references: 0
+Foreign key: shipment_id,PASS,Invalid references: 0
+Foreign key: shipment_id,PASS,Invalid references: 0
+Foreign key: supplier_id,PASS,Invalid references: 0
+Foreign key: purchase_order_id,PASS,Invalid references: 0
+Foreign key: supplier_id,PASS,Invalid references: 0
+Foreign key: supplier_id,PASS,Invalid references: 0
+Foreign key: supplier_id,PASS,Invalid references: 0
+Inspection quantity validation,PASS,Invalid inspection records: 0
+Defect rate calculation,PASS,Mismatched records: 0
+Purchase order line arithmetic,PASS,Mismatched records: 0
+Supplier score range,PASS,Out-of-range records: 0; missing required scores: 0; missing optional component scores: 177
+Risk signal source and date,PASS,Invalid risk records: 0

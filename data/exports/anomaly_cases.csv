@@ -1,0 +1,6 @@
+case_id,entity,anomaly_type,test_input,expected_detection,expected_decision,severity
+ANOM-001,Shipment,MISSING_PURCHASE_ORDER,"{""shipment_id"": ""SHP-TEST-001"", ""purchase_order_id"": ""PO-NOT-EXIST""}",Shipment references a purchase order that does not exist.,REJECT,HIGH
+ANOM-002,DeliveryEvent,DELIVERY_BEFORE_DISPATCH,"{""shipment_id"": ""SHP-TEST-002"", ""dispatch_date"": ""2026-05-10"", ""delivery_date"": ""2026-05-08""}",Delivery date occurs before dispatch date.,REJECT,HIGH
+ANOM-003,SupplierScore,FUTURE_DATA_USED,"{""supplier_id"": ""SUP-TEST-003"", ""score_as_of_date"": ""2026-06-30"", ""source_event_date"": ""2026-07-05""}",Supplier score uses information recorded after its scoring date.,REJECT,CRITICAL
+ANOM-004,RiskSignal,MISSING_SOURCE_AND_DATE,"{""risk_signal_id"": ""RSK-TEST-004"", ""supplier_id"": ""SUP-TEST-004"", ""source"": null, ""signal_date"": null}",Risk signal has no source or signal date.,REJECT,HIGH
+ANOM-005,Site,SUPPLIER_SITE_CONFLATION,"{""site_id"": ""SITE-TEST-005"", ""supplier_id"": ""SUP-TEST-005"", ""actual_supplier_id"": ""SUP-TEST-006""}",Site is associated with a different supplier than its actual owner.,REJECT,HIGH

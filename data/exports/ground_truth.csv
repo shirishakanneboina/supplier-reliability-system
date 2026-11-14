@@ -1,0 +1,6 @@
+case_id,entity,anomaly_type,expected_decision,severity,expected_detection
+ANOM-001,Shipment,MISSING_PURCHASE_ORDER,REJECT,HIGH,Shipment references a purchase order that does not exist.
+ANOM-002,DeliveryEvent,DELIVERY_BEFORE_DISPATCH,REJECT,HIGH,Delivery date occurs before dispatch date.
+ANOM-003,SupplierScore,FUTURE_DATA_USED,REJECT,CRITICAL,Supplier score uses information recorded after its scoring date.
+ANOM-004,RiskSignal,MISSING_SOURCE_AND_DATE,REJECT,HIGH,Risk signal has no source or signal date.
+ANOM-005,Site,SUPPLIER_SITE_CONFLATION,REJECT,HIGH,Site is associated with a different supplier than its actual owner.

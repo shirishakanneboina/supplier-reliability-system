@@ -3,21 +3,8 @@ import pandas as pd
 import random
 from datetime import datetime, timedelta
 
-# Fixed random seed
 rng = random.Random(20261028)
 
-# Possible delivery event types
-event_types = [
-    "Picked Up",
-    "In Transit",
-    "Arrived at Facility",
-    "Out for Delivery",
-    "Delivered",
-    "Delivery Attempt Failed",
-    "Delayed"
-]
-
-# Possible locations
 locations = [
     "Hyderabad",
     "Bangalore",
@@ -30,21 +17,48 @@ locations = [
 
 
 def generate_delivery_events(shipments_df):
-
     delivery_events = []
     event_counter = 1
 
-    # Generate 1 to 4 events for every shipment
-    for _, shipment in shipments_df.iterrows():
+    status_events = {
+        "Delivered": [
+            "Picked Up",
+            "In Transit",
+            "Out for Delivery",
+            "Delivered"
+        ],
+        "In Transit": [
+            "Picked Up",
+            "In Transit"
+        ],
+        "Shipped": [
+            "Picked Up"
+        ],
+        "Delayed": [
+            "Picked Up",
+            "In Transit",
+            "Delayed"
+        ],
+        "Cancelled": [
+            "Cancelled"
+        ]
+    }
 
-        number_of_events = rng.randint(1, 4)
+    for _, shipment in shipments_df.iterrows():
 
         shipment_date = datetime.strptime(
             shipment["shipment_date"],
             "%Y-%m-%d"
         ).date()
 
-        for event_number in range(number_of_events):
+        shipment_status = shipment["status"]
+
+        events = status_events.get(
+            shipment_status,
+            ["Picked Up"]
+        )
+
+        for event_number, event_type in enumerate(events):
 
             event_date = shipment_date + timedelta(
                 days=event_number
@@ -53,10 +67,10 @@ def generate_delivery_events(shipments_df):
             event = {
                 "delivery_event_id": f"DE{event_counter:06d}",
                 "shipment_id": shipment["shipment_id"],
-                "event_type": rng.choice(event_types),
+                "event_type": event_type,
                 "event_date": event_date.isoformat(),
                 "location": rng.choice(locations),
-                "remarks": "Shipment tracking update"
+                "remarks": "Synthetic shipment tracking update"
             }
 
             delivery_events.append(event)

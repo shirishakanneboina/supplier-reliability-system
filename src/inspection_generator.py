@@ -13,12 +13,6 @@ inspection_types = [
     "Sample Inspection"
 ]
 
-inspection_statuses = [
-    "Passed",
-    "Failed",
-    "Conditional"
-]
-
 
 def generate_inspections(shipments_df):
 
@@ -45,6 +39,7 @@ def generate_inspections(shipments_df):
         )
 
         inspected_quantity = rng.randint(10, 500)
+
         defective_quantity = rng.randint(
             0, min(inspected_quantity, 50)
         )

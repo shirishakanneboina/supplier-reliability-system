@@ -6,6 +6,9 @@ from datetime import date, timedelta
 # Fixed random seed
 rng = random.Random(20261024)
 
+# Fixed reference date for reproducible status calculation
+REFERENCE_DATE = date(2026, 11, 14)
+
 # Possible contract details
 contract_types = [
     "Annual Supply",
@@ -18,12 +21,6 @@ payment_terms = [
     "Net 30",
     "Net 45",
     "Net 60"
-]
-
-contract_statuses = [
-    "Active",
-    "Expired",
-    "Pending"
 ]
 
 
@@ -46,6 +43,14 @@ def generate_contracts(suppliers_df):
                 days=rng.randint(180, 730)
             )
 
+            # Calculate status using contract dates
+            if start_date > REFERENCE_DATE:
+                status = "Pending"
+            elif end_date < REFERENCE_DATE:
+                status = "Expired"
+            else:
+                status = "Active"
+
             contract = {
                 "contract_id": f"CON{contract_counter:04d}",
                 "supplier_id": supplier_id,
@@ -54,7 +59,7 @@ def generate_contracts(suppliers_df):
                 "end_date": end_date.isoformat(),
                 "contract_value": rng.randint(100000, 1000000),
                 "payment_terms": rng.choice(payment_terms),
-                "status": rng.choice(contract_statuses)
+                "status": status
             }
 
             contracts.append(contract)

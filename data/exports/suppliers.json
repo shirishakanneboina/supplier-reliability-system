@@ -2,5001 +2,6001 @@
   {
     "supplier_id":"SUP001",
     "supplier_name":"Prime Materials",
-    "country":"UK"
+    "country":"UK",
+    "capacity_units_per_month":2817
   },
   {
     "supplier_id":"SUP002",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":2479
   },
   {
     "supplier_id":"SUP003",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":523
   },
   {
     "supplier_id":"SUP004",
-    "supplier_name":"Global Components",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"USA",
+    "capacity_units_per_month":984
   },
   {
     "supplier_id":"SUP005",
-    "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":3027
   },
   {
     "supplier_id":"SUP006",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"Reliable Industries",
+    "country":"India",
+    "capacity_units_per_month":2084
   },
   {
     "supplier_id":"SUP007",
     "supplier_name":"Global Components",
-    "country":"USA"
+    "country":"UK",
+    "capacity_units_per_month":1448
   },
   {
     "supplier_id":"SUP008",
-    "supplier_name":"Prime Materials",
-    "country":"UK"
+    "supplier_name":"Global Components",
+    "country":"UK",
+    "capacity_units_per_month":4194
   },
   {
     "supplier_id":"SUP009",
     "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "country":"UK",
+    "capacity_units_per_month":1441
   },
   {
     "supplier_id":"SUP010",
-    "supplier_name":"Global Components",
-    "country":"UK"
+    "supplier_name":"Prime Materials",
+    "country":"USA",
+    "capacity_units_per_month":3348
   },
   {
     "supplier_id":"SUP011",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":1004
   },
   {
     "supplier_id":"SUP012",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":4247
   },
   {
     "supplier_id":"SUP013",
     "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "country":"India",
+    "capacity_units_per_month":2335
   },
   {
     "supplier_id":"SUP014",
-    "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":3234
   },
   {
     "supplier_id":"SUP015",
-    "supplier_name":"Global Components",
-    "country":"UK"
+    "supplier_name":"ABC Technologies",
+    "country":"USA",
+    "capacity_units_per_month":4077
   },
   {
     "supplier_id":"SUP016",
-    "supplier_name":"Prime Materials",
-    "country":"Japan"
+    "supplier_name":"Reliable Industries",
+    "country":"Japan",
+    "capacity_units_per_month":1228
   },
   {
     "supplier_id":"SUP017",
-    "supplier_name":"ABC Technologies",
-    "country":"India"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Japan",
+    "capacity_units_per_month":875
   },
   {
     "supplier_id":"SUP018",
     "supplier_name":"Global Components",
-    "country":"USA"
+    "country":"Japan",
+    "capacity_units_per_month":4824
   },
   {
     "supplier_id":"SUP019",
-    "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":1091
   },
   {
     "supplier_id":"SUP020",
-    "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "supplier_name":"Prime Materials",
+    "country":"India",
+    "capacity_units_per_month":2937
   },
   {
     "supplier_id":"SUP021",
-    "supplier_name":"Global Components",
-    "country":"UK"
+    "supplier_name":"Reliable Industries",
+    "country":"USA",
+    "capacity_units_per_month":547
   },
   {
     "supplier_id":"SUP022",
-    "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "supplier_name":"ABC Technologies",
+    "country":"India",
+    "capacity_units_per_month":3692
   },
   {
     "supplier_id":"SUP023",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"UK",
+    "capacity_units_per_month":4485
   },
   {
     "supplier_id":"SUP024",
     "supplier_name":"Sunrise Electronics",
-    "country":"UK"
+    "country":"India",
+    "capacity_units_per_month":4866
   },
   {
     "supplier_id":"SUP025",
-    "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"Germany",
+    "capacity_units_per_month":838
   },
   {
     "supplier_id":"SUP026",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "supplier_name":"Reliable Industries",
+    "country":"Japan",
+    "capacity_units_per_month":543
   },
   {
     "supplier_id":"SUP027",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":2448
   },
   {
     "supplier_id":"SUP028",
-    "supplier_name":"Sunrise Electronics",
-    "country":"UK"
+    "supplier_name":"ABC Technologies",
+    "country":"USA",
+    "capacity_units_per_month":2994
   },
   {
     "supplier_id":"SUP029",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":4735
   },
   {
     "supplier_id":"SUP030",
-    "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "supplier_name":"Prime Materials",
+    "country":"India",
+    "capacity_units_per_month":3024
   },
   {
     "supplier_id":"SUP031",
-    "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":1483
   },
   {
     "supplier_id":"SUP032",
-    "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "supplier_name":"ABC Technologies",
+    "country":"Germany",
+    "capacity_units_per_month":913
   },
   {
     "supplier_id":"SUP033",
     "supplier_name":"ABC Technologies",
-    "country":"India"
+    "country":"UK",
+    "capacity_units_per_month":614
   },
   {
     "supplier_id":"SUP034",
-    "supplier_name":"ABC Technologies",
-    "country":"Japan"
+    "supplier_name":"Sunrise Electronics",
+    "country":"UK",
+    "capacity_units_per_month":2800
   },
   {
     "supplier_id":"SUP035",
-    "supplier_name":"Global Components",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":4269
   },
   {
     "supplier_id":"SUP036",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "supplier_name":"Prime Materials",
+    "country":"USA",
+    "capacity_units_per_month":3090
   },
   {
     "supplier_id":"SUP037",
-    "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":4690
   },
   {
     "supplier_id":"SUP038",
-    "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"Japan",
+    "capacity_units_per_month":2794
   },
   {
     "supplier_id":"SUP039",
-    "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "supplier_name":"Prime Materials",
+    "country":"Germany",
+    "capacity_units_per_month":4715
   },
   {
     "supplier_id":"SUP040",
     "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "country":"UK",
+    "capacity_units_per_month":3410
   },
   {
     "supplier_id":"SUP041",
-    "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "supplier_name":"Prime Materials",
+    "country":"USA",
+    "capacity_units_per_month":1736
   },
   {
     "supplier_id":"SUP042",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"Reliable Industries",
+    "country":"USA",
+    "capacity_units_per_month":4316
   },
   {
     "supplier_id":"SUP043",
-    "supplier_name":"Global Components",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"Germany",
+    "capacity_units_per_month":4197
   },
   {
     "supplier_id":"SUP044",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":813
   },
   {
     "supplier_id":"SUP045",
-    "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "supplier_name":"Sunrise Electronics",
+    "country":"UK",
+    "capacity_units_per_month":2687
   },
   {
     "supplier_id":"SUP046",
-    "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":2384
   },
   {
     "supplier_id":"SUP047",
-    "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"Japan",
+    "capacity_units_per_month":4038
   },
   {
     "supplier_id":"SUP048",
-    "supplier_name":"ABC Technologies",
-    "country":"India"
+    "supplier_name":"Reliable Industries",
+    "country":"USA",
+    "capacity_units_per_month":1747
   },
   {
     "supplier_id":"SUP049",
-    "supplier_name":"Prime Materials",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"USA",
+    "capacity_units_per_month":645
   },
   {
     "supplier_id":"SUP050",
     "supplier_name":"Reliable Industries",
-    "country":"India"
+    "country":"Japan",
+    "capacity_units_per_month":4614
   },
   {
     "supplier_id":"SUP051",
-    "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "supplier_name":"Reliable Industries",
+    "country":"Germany",
+    "capacity_units_per_month":1231
   },
   {
     "supplier_id":"SUP052",
-    "supplier_name":"ABC Technologies",
-    "country":"Japan"
+    "supplier_name":"Global Components",
+    "country":"Japan",
+    "capacity_units_per_month":3259
   },
   {
     "supplier_id":"SUP053",
-    "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "supplier_name":"ABC Technologies",
+    "country":"Germany",
+    "capacity_units_per_month":1393
   },
   {
     "supplier_id":"SUP054",
-    "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "supplier_name":"Reliable Industries",
+    "country":"USA",
+    "capacity_units_per_month":595
   },
   {
     "supplier_id":"SUP055",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "supplier_name":"Prime Materials",
+    "country":"Germany",
+    "capacity_units_per_month":3608
   },
   {
     "supplier_id":"SUP056",
-    "supplier_name":"Global Components",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":4271
   },
   {
     "supplier_id":"SUP057",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":676
   },
   {
     "supplier_id":"SUP058",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":4518
   },
   {
     "supplier_id":"SUP059",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "supplier_name":"Global Components",
+    "country":"Japan",
+    "capacity_units_per_month":1026
   },
   {
     "supplier_id":"SUP060",
-    "supplier_name":"Prime Materials",
-    "country":"Germany"
+    "supplier_name":"ABC Technologies",
+    "country":"USA",
+    "capacity_units_per_month":4374
   },
   {
     "supplier_id":"SUP061",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":3798
   },
   {
     "supplier_id":"SUP062",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Germany",
+    "capacity_units_per_month":2034
   },
   {
     "supplier_id":"SUP063",
-    "supplier_name":"Prime Materials",
-    "country":"Germany"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Germany",
+    "capacity_units_per_month":3003
   },
   {
     "supplier_id":"SUP064",
-    "supplier_name":"Global Components",
-    "country":"USA"
+    "supplier_name":"ABC Technologies",
+    "country":"India",
+    "capacity_units_per_month":1290
   },
   {
     "supplier_id":"SUP065",
-    "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"UK",
+    "capacity_units_per_month":2326
   },
   {
     "supplier_id":"SUP066",
     "supplier_name":"Sunrise Electronics",
-    "country":"UK"
+    "country":"USA",
+    "capacity_units_per_month":977
   },
   {
     "supplier_id":"SUP067",
     "supplier_name":"Prime Materials",
-    "country":"Japan"
+    "country":"USA",
+    "capacity_units_per_month":4419
   },
   {
     "supplier_id":"SUP068",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Japan",
+    "capacity_units_per_month":3496
   },
   {
     "supplier_id":"SUP069",
-    "supplier_name":"ABC Technologies",
-    "country":"Japan"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Germany",
+    "capacity_units_per_month":1004
   },
   {
     "supplier_id":"SUP070",
     "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "country":"USA",
+    "capacity_units_per_month":4971
   },
   {
     "supplier_id":"SUP071",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"Global Components",
+    "country":"UK",
+    "capacity_units_per_month":2319
   },
   {
     "supplier_id":"SUP072",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"Sunrise Electronics",
+    "country":"UK",
+    "capacity_units_per_month":4266
   },
   {
     "supplier_id":"SUP073",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"Japan",
+    "capacity_units_per_month":4654
   },
   {
     "supplier_id":"SUP074",
     "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "country":"UK",
+    "capacity_units_per_month":1216
   },
   {
     "supplier_id":"SUP075",
     "supplier_name":"Global Components",
-    "country":"Japan"
+    "country":"India",
+    "capacity_units_per_month":1123
   },
   {
     "supplier_id":"SUP076",
-    "supplier_name":"Global Components",
-    "country":"UK"
+    "supplier_name":"Reliable Industries",
+    "country":"Japan",
+    "capacity_units_per_month":822
   },
   {
     "supplier_id":"SUP077",
-    "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "supplier_name":"Global Components",
+    "country":"UK",
+    "capacity_units_per_month":3057
   },
   {
     "supplier_id":"SUP078",
-    "supplier_name":"Sunrise Electronics",
-    "country":"UK"
+    "supplier_name":"Global Components",
+    "country":"UK",
+    "capacity_units_per_month":3265
   },
   {
     "supplier_id":"SUP079",
-    "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "supplier_name":"Prime Materials",
+    "country":"USA",
+    "capacity_units_per_month":4754
   },
   {
     "supplier_id":"SUP080",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Prime Materials",
+    "country":"UK",
+    "capacity_units_per_month":3360
   },
   {
     "supplier_id":"SUP081",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "supplier_name":"ABC Technologies",
+    "country":"India",
+    "capacity_units_per_month":4945
   },
   {
     "supplier_id":"SUP082",
-    "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "supplier_name":"Prime Materials",
+    "country":"USA",
+    "capacity_units_per_month":3004
   },
   {
     "supplier_id":"SUP083",
-    "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "supplier_name":"Global Components",
+    "country":"Germany",
+    "capacity_units_per_month":3429
   },
   {
     "supplier_id":"SUP084",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"Prime Materials",
+    "country":"India",
+    "capacity_units_per_month":1586
   },
   {
     "supplier_id":"SUP085",
-    "supplier_name":"Prime Materials",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"USA",
+    "capacity_units_per_month":4004
   },
   {
     "supplier_id":"SUP086",
-    "supplier_name":"Sunrise Electronics",
-    "country":"UK"
+    "supplier_name":"Reliable Industries",
+    "country":"USA",
+    "capacity_units_per_month":3023
   },
   {
     "supplier_id":"SUP087",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Germany",
+    "capacity_units_per_month":3679
   },
   {
     "supplier_id":"SUP088",
-    "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "supplier_name":"Global Components",
+    "country":"UK",
+    "capacity_units_per_month":2143
   },
   {
     "supplier_id":"SUP089",
-    "supplier_name":"Reliable Industries",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"USA",
+    "capacity_units_per_month":1501
   },
   {
     "supplier_id":"SUP090",
-    "supplier_name":"Global Components",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"Germany",
+    "capacity_units_per_month":3595
   },
   {
     "supplier_id":"SUP091",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"Prime Materials",
+    "country":"Japan",
+    "capacity_units_per_month":3356
   },
   {
     "supplier_id":"SUP092",
-    "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "supplier_name":"Global Components",
+    "country":"Germany",
+    "capacity_units_per_month":2102
   },
   {
     "supplier_id":"SUP093",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Prime Materials",
+    "country":"Japan",
+    "capacity_units_per_month":1264
   },
   {
     "supplier_id":"SUP094",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":3500
   },
   {
     "supplier_id":"SUP095",
-    "supplier_name":"Global Components",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":4537
   },
   {
     "supplier_id":"SUP096",
     "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "country":"India",
+    "capacity_units_per_month":2887
   },
   {
     "supplier_id":"SUP097",
-    "supplier_name":"Global Components",
-    "country":"Japan"
+    "supplier_name":"Prime Materials",
+    "country":"India",
+    "capacity_units_per_month":3228
   },
   {
     "supplier_id":"SUP098",
-    "supplier_name":"Prime Materials",
-    "country":"UK"
+    "supplier_name":"Reliable Industries",
+    "country":"Germany",
+    "capacity_units_per_month":538
   },
   {
     "supplier_id":"SUP099",
-    "supplier_name":"Prime Materials",
-    "country":"India"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Japan",
+    "capacity_units_per_month":2704
   },
   {
     "supplier_id":"SUP100",
     "supplier_name":"ABC Technologies",
-    "country":"India"
+    "country":"Germany",
+    "capacity_units_per_month":1440
   },
   {
     "supplier_id":"SUP101",
-    "supplier_name":"Sunrise Electronics",
-    "country":"UK"
+    "supplier_name":"Global Components",
+    "country":"UK",
+    "capacity_units_per_month":4961
   },
   {
     "supplier_id":"SUP102",
-    "supplier_name":"Global Components",
-    "country":"Japan"
+    "supplier_name":"Reliable Industries",
+    "country":"USA",
+    "capacity_units_per_month":1685
   },
   {
     "supplier_id":"SUP103",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"India",
+    "capacity_units_per_month":3334
   },
   {
     "supplier_id":"SUP104",
     "supplier_name":"Prime Materials",
-    "country":"USA"
+    "country":"India",
+    "capacity_units_per_month":2624
   },
   {
     "supplier_id":"SUP105",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "supplier_name":"Prime Materials",
+    "country":"UK",
+    "capacity_units_per_month":1933
   },
   {
     "supplier_id":"SUP106",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"USA",
+    "capacity_units_per_month":3687
   },
   {
     "supplier_id":"SUP107",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "supplier_name":"ABC Technologies",
+    "country":"Germany",
+    "capacity_units_per_month":1379
   },
   {
     "supplier_id":"SUP108",
-    "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "supplier_name":"Prime Materials",
+    "country":"India",
+    "capacity_units_per_month":4221
   },
   {
     "supplier_id":"SUP109",
-    "supplier_name":"Global Components",
-    "country":"UK"
+    "supplier_name":"Prime Materials",
+    "country":"USA",
+    "capacity_units_per_month":3137
   },
   {
     "supplier_id":"SUP110",
-    "supplier_name":"Global Components",
-    "country":"UK"
+    "supplier_name":"Prime Materials",
+    "country":"Germany",
+    "capacity_units_per_month":4955
   },
   {
     "supplier_id":"SUP111",
-    "supplier_name":"Global Components",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"Germany",
+    "capacity_units_per_month":3464
   },
   {
     "supplier_id":"SUP112",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":1340
   },
   {
     "supplier_id":"SUP113",
-    "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "supplier_name":"Prime Materials",
+    "country":"USA",
+    "capacity_units_per_month":2623
   },
   {
     "supplier_id":"SUP114",
-    "supplier_name":"Sunrise Electronics",
-    "country":"UK"
+    "supplier_name":"Prime Materials",
+    "country":"Germany",
+    "capacity_units_per_month":2520
   },
   {
     "supplier_id":"SUP115",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"Prime Materials",
+    "country":"India",
+    "capacity_units_per_month":802
   },
   {
     "supplier_id":"SUP116",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"UK",
+    "capacity_units_per_month":2773
   },
   {
     "supplier_id":"SUP117",
-    "supplier_name":"ABC Technologies",
-    "country":"India"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":3038
   },
   {
     "supplier_id":"SUP118",
     "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "country":"India",
+    "capacity_units_per_month":2298
   },
   {
     "supplier_id":"SUP119",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":1006
   },
   {
     "supplier_id":"SUP120",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"Prime Materials",
+    "country":"USA",
+    "capacity_units_per_month":1486
   },
   {
     "supplier_id":"SUP121",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"ABC Technologies",
+    "country":"USA",
+    "capacity_units_per_month":4291
   },
   {
     "supplier_id":"SUP122",
-    "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":4599
   },
   {
     "supplier_id":"SUP123",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"ABC Technologies",
+    "country":"India",
+    "capacity_units_per_month":3088
   },
   {
     "supplier_id":"SUP124",
-    "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "supplier_name":"Prime Materials",
+    "country":"Japan",
+    "capacity_units_per_month":3390
   },
   {
     "supplier_id":"SUP125",
-    "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "supplier_name":"Global Components",
+    "country":"Germany",
+    "capacity_units_per_month":2362
   },
   {
     "supplier_id":"SUP126",
-    "supplier_name":"ABC Technologies",
-    "country":"India"
+    "supplier_name":"Prime Materials",
+    "country":"Japan",
+    "capacity_units_per_month":4715
   },
   {
     "supplier_id":"SUP127",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"UK",
+    "capacity_units_per_month":3037
   },
   {
     "supplier_id":"SUP128",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"Japan",
+    "capacity_units_per_month":2597
   },
   {
     "supplier_id":"SUP129",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":1491
   },
   {
     "supplier_id":"SUP130",
-    "supplier_name":"Prime Materials",
-    "country":"Germany"
+    "supplier_name":"ABC Technologies",
+    "country":"USA",
+    "capacity_units_per_month":1061
   },
   {
     "supplier_id":"SUP131",
     "supplier_name":"Prime Materials",
-    "country":"India"
+    "country":"USA",
+    "capacity_units_per_month":1481
   },
   {
     "supplier_id":"SUP132",
-    "supplier_name":"Global Components",
-    "country":"UK"
+    "supplier_name":"ABC Technologies",
+    "country":"India",
+    "capacity_units_per_month":4358
   },
   {
     "supplier_id":"SUP133",
-    "supplier_name":"Global Components",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"Germany",
+    "capacity_units_per_month":2858
   },
   {
     "supplier_id":"SUP134",
-    "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":2131
   },
   {
     "supplier_id":"SUP135",
     "supplier_name":"Prime Materials",
-    "country":"Japan"
+    "country":"Germany",
+    "capacity_units_per_month":1229
   },
   {
     "supplier_id":"SUP136",
-    "supplier_name":"Prime Materials",
-    "country":"Japan"
+    "supplier_name":"Global Components",
+    "country":"UK",
+    "capacity_units_per_month":4272
   },
   {
     "supplier_id":"SUP137",
     "supplier_name":"Global Components",
-    "country":"UK"
+    "country":"Japan",
+    "capacity_units_per_month":1961
   },
   {
     "supplier_id":"SUP138",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Germany",
+    "capacity_units_per_month":1616
   },
   {
     "supplier_id":"SUP139",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"USA",
+    "capacity_units_per_month":1117
   },
   {
     "supplier_id":"SUP140",
-    "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":976
   },
   {
     "supplier_id":"SUP141",
     "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "country":"India",
+    "capacity_units_per_month":3015
   },
   {
     "supplier_id":"SUP142",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":1875
   },
   {
     "supplier_id":"SUP143",
-    "supplier_name":"Global Components",
-    "country":"Germany"
+    "supplier_name":"ABC Technologies",
+    "country":"India",
+    "capacity_units_per_month":2528
   },
   {
     "supplier_id":"SUP144",
-    "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "supplier_name":"Prime Materials",
+    "country":"Japan",
+    "capacity_units_per_month":1253
   },
   {
     "supplier_id":"SUP145",
-    "supplier_name":"Prime Materials",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"USA",
+    "capacity_units_per_month":2249
   },
   {
     "supplier_id":"SUP146",
-    "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Germany",
+    "capacity_units_per_month":3719
   },
   {
     "supplier_id":"SUP147",
-    "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":2243
   },
   {
     "supplier_id":"SUP148",
-    "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":1633
   },
   {
     "supplier_id":"SUP149",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "supplier_name":"Global Components",
+    "country":"Germany",
+    "capacity_units_per_month":580
   },
   {
     "supplier_id":"SUP150",
     "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "country":"Japan",
+    "capacity_units_per_month":2692
   },
   {
     "supplier_id":"SUP151",
-    "supplier_name":"Prime Materials",
-    "country":"India"
+    "supplier_name":"Global Components",
+    "country":"Japan",
+    "capacity_units_per_month":2150
   },
   {
     "supplier_id":"SUP152",
     "supplier_name":"Prime Materials",
-    "country":"UK"
+    "country":"Germany",
+    "capacity_units_per_month":3260
   },
   {
     "supplier_id":"SUP153",
-    "supplier_name":"Prime Materials",
-    "country":"India"
+    "supplier_name":"Global Components",
+    "country":"UK",
+    "capacity_units_per_month":981
   },
   {
     "supplier_id":"SUP154",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "supplier_name":"Reliable Industries",
+    "country":"India",
+    "capacity_units_per_month":4822
   },
   {
     "supplier_id":"SUP155",
-    "supplier_name":"Prime Materials",
-    "country":"India"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Germany",
+    "capacity_units_per_month":2145
   },
   {
     "supplier_id":"SUP156",
-    "supplier_name":"Prime Materials",
-    "country":"India"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":4593
   },
   {
     "supplier_id":"SUP157",
-    "supplier_name":"Global Components",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"USA",
+    "capacity_units_per_month":4440
   },
   {
     "supplier_id":"SUP158",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"Global Components",
+    "country":"Germany",
+    "capacity_units_per_month":1686
   },
   {
     "supplier_id":"SUP159",
-    "supplier_name":"Global Components",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":3151
   },
   {
     "supplier_id":"SUP160",
-    "supplier_name":"ABC Technologies",
-    "country":"India"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Germany",
+    "capacity_units_per_month":3836
   },
   {
     "supplier_id":"SUP161",
     "supplier_name":"Prime Materials",
-    "country":"Germany"
+    "country":"Germany",
+    "capacity_units_per_month":2400
   },
   {
     "supplier_id":"SUP162",
-    "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "supplier_name":"Prime Materials",
+    "country":"India",
+    "capacity_units_per_month":2309
   },
   {
     "supplier_id":"SUP163",
-    "supplier_name":"Prime Materials",
-    "country":"UK"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":2345
   },
   {
     "supplier_id":"SUP164",
     "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "country":"USA",
+    "capacity_units_per_month":3959
   },
   {
     "supplier_id":"SUP165",
-    "supplier_name":"Global Components",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":852
   },
   {
     "supplier_id":"SUP166",
-    "supplier_name":"Global Components",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"India",
+    "capacity_units_per_month":3773
   },
   {
     "supplier_id":"SUP167",
-    "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "supplier_name":"Prime Materials",
+    "country":"UK",
+    "capacity_units_per_month":4761
   },
   {
     "supplier_id":"SUP168",
-    "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "supplier_name":"Global Components",
+    "country":"Germany",
+    "capacity_units_per_month":1191
   },
   {
     "supplier_id":"SUP169",
-    "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":2453
   },
   {
     "supplier_id":"SUP170",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "supplier_name":"ABC Technologies",
+    "country":"USA",
+    "capacity_units_per_month":3017
   },
   {
     "supplier_id":"SUP171",
-    "supplier_name":"Global Components",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"India",
+    "capacity_units_per_month":2903
   },
   {
     "supplier_id":"SUP172",
     "supplier_name":"Prime Materials",
-    "country":"Germany"
+    "country":"USA",
+    "capacity_units_per_month":2510
   },
   {
     "supplier_id":"SUP173",
-    "supplier_name":"Reliable Industries",
-    "country":"India"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Germany",
+    "capacity_units_per_month":3693
   },
   {
     "supplier_id":"SUP174",
-    "supplier_name":"Prime Materials",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"Japan",
+    "capacity_units_per_month":1810
   },
   {
     "supplier_id":"SUP175",
-    "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":1879
   },
   {
     "supplier_id":"SUP176",
-    "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "supplier_name":"Global Components",
+    "country":"Germany",
+    "capacity_units_per_month":2361
   },
   {
     "supplier_id":"SUP177",
-    "supplier_name":"Global Components",
-    "country":"Germany"
+    "supplier_name":"Prime Materials",
+    "country":"UK",
+    "capacity_units_per_month":3406
   },
   {
     "supplier_id":"SUP178",
-    "supplier_name":"Prime Materials",
-    "country":"Germany"
+    "supplier_name":"Sunrise Electronics",
+    "country":"USA",
+    "capacity_units_per_month":933
   },
   {
     "supplier_id":"SUP179",
     "supplier_name":"Global Components",
-    "country":"Germany"
+    "country":"Japan",
+    "capacity_units_per_month":4521
   },
   {
     "supplier_id":"SUP180",
-    "supplier_name":"ABC Technologies",
-    "country":"India"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":1877
   },
   {
     "supplier_id":"SUP181",
-    "supplier_name":"Global Components",
-    "country":"UK"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":2709
   },
   {
     "supplier_id":"SUP182",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Japan",
+    "capacity_units_per_month":1358
   },
   {
     "supplier_id":"SUP183",
-    "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "supplier_name":"Sunrise Electronics",
+    "country":"USA",
+    "capacity_units_per_month":4621
   },
   {
     "supplier_id":"SUP184",
-    "supplier_name":"Reliable Industries",
-    "country":"India"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Japan",
+    "capacity_units_per_month":4754
   },
   {
     "supplier_id":"SUP185",
-    "supplier_name":"Global Components",
-    "country":"Japan"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Japan",
+    "capacity_units_per_month":2308
   },
   {
     "supplier_id":"SUP186",
     "supplier_name":"ABC Technologies",
-    "country":"India"
+    "country":"Japan",
+    "capacity_units_per_month":861
   },
   {
     "supplier_id":"SUP187",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":3567
   },
   {
     "supplier_id":"SUP188",
     "supplier_name":"ABC Technologies",
-    "country":"India"
+    "country":"Japan",
+    "capacity_units_per_month":2152
   },
   {
     "supplier_id":"SUP189",
-    "supplier_name":"Global Components",
-    "country":"Japan"
+    "supplier_name":"Reliable Industries",
+    "country":"Germany",
+    "capacity_units_per_month":4203
   },
   {
     "supplier_id":"SUP190",
-    "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":2692
   },
   {
     "supplier_id":"SUP191",
-    "supplier_name":"Reliable Industries",
-    "country":"India"
+    "supplier_name":"Prime Materials",
+    "country":"Germany",
+    "capacity_units_per_month":3545
   },
   {
     "supplier_id":"SUP192",
-    "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":2219
   },
   {
     "supplier_id":"SUP193",
     "supplier_name":"Prime Materials",
-    "country":"Japan"
+    "country":"Japan",
+    "capacity_units_per_month":4528
   },
   {
     "supplier_id":"SUP194",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":3841
   },
   {
     "supplier_id":"SUP195",
-    "supplier_name":"Prime Materials",
-    "country":"UK"
+    "supplier_name":"Global Components",
+    "country":"Germany",
+    "capacity_units_per_month":2278
   },
   {
     "supplier_id":"SUP196",
     "supplier_name":"Global Components",
-    "country":"Germany"
+    "country":"UK",
+    "capacity_units_per_month":1915
   },
   {
     "supplier_id":"SUP197",
-    "supplier_name":"Sunrise Electronics",
-    "country":"UK"
+    "supplier_name":"Reliable Industries",
+    "country":"Germany",
+    "capacity_units_per_month":1655
   },
   {
     "supplier_id":"SUP198",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"ABC Technologies",
+    "country":"Germany",
+    "capacity_units_per_month":4357
   },
   {
     "supplier_id":"SUP199",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"Prime Materials",
+    "country":"India",
+    "capacity_units_per_month":1398
   },
   {
     "supplier_id":"SUP200",
     "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "country":"USA",
+    "capacity_units_per_month":1822
   },
   {
     "supplier_id":"SUP201",
-    "supplier_name":"Global Components",
-    "country":"Japan"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":1288
   },
   {
     "supplier_id":"SUP202",
-    "supplier_name":"Prime Materials",
-    "country":"Japan"
+    "supplier_name":"Sunrise Electronics",
+    "country":"UK",
+    "capacity_units_per_month":1702
   },
   {
     "supplier_id":"SUP203",
-    "supplier_name":"ABC Technologies",
-    "country":"India"
+    "supplier_name":"Reliable Industries",
+    "country":"Germany",
+    "capacity_units_per_month":4879
   },
   {
     "supplier_id":"SUP204",
     "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "country":"India",
+    "capacity_units_per_month":1043
   },
   {
     "supplier_id":"SUP205",
-    "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "supplier_name":"Prime Materials",
+    "country":"USA",
+    "capacity_units_per_month":3046
   },
   {
     "supplier_id":"SUP206",
     "supplier_name":"Global Components",
-    "country":"India"
+    "country":"USA",
+    "capacity_units_per_month":997
   },
   {
     "supplier_id":"SUP207",
-    "supplier_name":"ABC Technologies",
-    "country":"India"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":3249
   },
   {
     "supplier_id":"SUP208",
-    "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":1355
   },
   {
     "supplier_id":"SUP209",
-    "supplier_name":"Prime Materials",
-    "country":"Germany"
+    "supplier_name":"ABC Technologies",
+    "country":"Germany",
+    "capacity_units_per_month":2916
   },
   {
     "supplier_id":"SUP210",
     "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "country":"UK",
+    "capacity_units_per_month":2118
   },
   {
     "supplier_id":"SUP211",
-    "supplier_name":"Global Components",
-    "country":"Germany"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":1200
   },
   {
     "supplier_id":"SUP212",
-    "supplier_name":"Prime Materials",
-    "country":"India"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":2667
   },
   {
     "supplier_id":"SUP213",
-    "supplier_name":"Global Components",
-    "country":"UK"
+    "supplier_name":"ABC Technologies",
+    "country":"Germany",
+    "capacity_units_per_month":869
   },
   {
     "supplier_id":"SUP214",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":2595
   },
   {
     "supplier_id":"SUP215",
     "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "country":"India",
+    "capacity_units_per_month":854
   },
   {
     "supplier_id":"SUP216",
     "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "country":"USA",
+    "capacity_units_per_month":2723
   },
   {
     "supplier_id":"SUP217",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"Prime Materials",
+    "country":"UK",
+    "capacity_units_per_month":4341
   },
   {
     "supplier_id":"SUP218",
-    "supplier_name":"Global Components",
-    "country":"UK"
+    "supplier_name":"ABC Technologies",
+    "country":"USA",
+    "capacity_units_per_month":675
   },
   {
     "supplier_id":"SUP219",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Japan",
+    "capacity_units_per_month":4126
   },
   {
     "supplier_id":"SUP220",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":2706
   },
   {
     "supplier_id":"SUP221",
-    "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "supplier_name":"Prime Materials",
+    "country":"Japan",
+    "capacity_units_per_month":680
   },
   {
     "supplier_id":"SUP222",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":2626
   },
   {
     "supplier_id":"SUP223",
-    "supplier_name":"Global Components",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Germany",
+    "capacity_units_per_month":1168
   },
   {
     "supplier_id":"SUP224",
-    "supplier_name":"ABC Technologies",
-    "country":"India"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":3349
   },
   {
     "supplier_id":"SUP225",
     "supplier_name":"Global Components",
-    "country":"Germany"
+    "country":"USA",
+    "capacity_units_per_month":1174
   },
   {
     "supplier_id":"SUP226",
-    "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "supplier_name":"Reliable Industries",
+    "country":"India",
+    "capacity_units_per_month":3373
   },
   {
     "supplier_id":"SUP227",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Prime Materials",
+    "country":"Japan",
+    "capacity_units_per_month":3927
   },
   {
     "supplier_id":"SUP228",
     "supplier_name":"Global Components",
-    "country":"Japan"
+    "country":"USA",
+    "capacity_units_per_month":723
   },
   {
     "supplier_id":"SUP229",
-    "supplier_name":"Prime Materials",
-    "country":"UK"
+    "supplier_name":"ABC Technologies",
+    "country":"Japan",
+    "capacity_units_per_month":4399
   },
   {
     "supplier_id":"SUP230",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":2873
   },
   {
     "supplier_id":"SUP231",
-    "supplier_name":"Global Components",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"USA",
+    "capacity_units_per_month":2085
   },
   {
     "supplier_id":"SUP232",
-    "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":2164
   },
   {
     "supplier_id":"SUP233",
     "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "country":"USA",
+    "capacity_units_per_month":1590
   },
   {
     "supplier_id":"SUP234",
     "supplier_name":"Global Components",
-    "country":"USA"
+    "country":"Japan",
+    "capacity_units_per_month":4485
   },
   {
     "supplier_id":"SUP235",
-    "supplier_name":"Prime Materials",
-    "country":"India"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":3829
   },
   {
     "supplier_id":"SUP236",
-    "supplier_name":"ABC Technologies",
-    "country":"Japan"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":4678
   },
   {
     "supplier_id":"SUP237",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":3270
   },
   {
     "supplier_id":"SUP238",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":4548
   },
   {
     "supplier_id":"SUP239",
     "supplier_name":"Prime Materials",
-    "country":"Germany"
+    "country":"India",
+    "capacity_units_per_month":4861
   },
   {
     "supplier_id":"SUP240",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"USA",
+    "capacity_units_per_month":645
   },
   {
     "supplier_id":"SUP241",
-    "supplier_name":"Reliable Industries",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":4586
   },
   {
     "supplier_id":"SUP242",
-    "supplier_name":"Reliable Industries",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"Germany",
+    "capacity_units_per_month":789
   },
   {
     "supplier_id":"SUP243",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"USA",
+    "capacity_units_per_month":1205
   },
   {
     "supplier_id":"SUP244",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"Germany",
+    "capacity_units_per_month":1716
   },
   {
     "supplier_id":"SUP245",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"UK",
+    "capacity_units_per_month":986
   },
   {
     "supplier_id":"SUP246",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":1213
   },
   {
     "supplier_id":"SUP247",
-    "supplier_name":"Global Components",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"Germany",
+    "capacity_units_per_month":1988
   },
   {
     "supplier_id":"SUP248",
-    "supplier_name":"Global Components",
-    "country":"Germany"
+    "supplier_name":"ABC Technologies",
+    "country":"India",
+    "capacity_units_per_month":4310
   },
   {
     "supplier_id":"SUP249",
-    "supplier_name":"Global Components",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"Japan",
+    "capacity_units_per_month":3864
   },
   {
     "supplier_id":"SUP250",
-    "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "supplier_name":"Global Components",
+    "country":"Japan",
+    "capacity_units_per_month":2717
   },
   {
     "supplier_id":"SUP251",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "supplier_name":"ABC Technologies",
+    "country":"Japan",
+    "capacity_units_per_month":3069
   },
   {
     "supplier_id":"SUP252",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":2703
   },
   {
     "supplier_id":"SUP253",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"Japan",
+    "capacity_units_per_month":2788
   },
   {
     "supplier_id":"SUP254",
-    "supplier_name":"Prime Materials",
-    "country":"India"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":3036
   },
   {
     "supplier_id":"SUP255",
-    "supplier_name":"Global Components",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"USA",
+    "capacity_units_per_month":701
   },
   {
     "supplier_id":"SUP256",
-    "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"Germany",
+    "capacity_units_per_month":2187
   },
   {
     "supplier_id":"SUP257",
-    "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "supplier_name":"ABC Technologies",
+    "country":"USA",
+    "capacity_units_per_month":1365
   },
   {
     "supplier_id":"SUP258",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "supplier_name":"Reliable Industries",
+    "country":"India",
+    "capacity_units_per_month":787
   },
   {
     "supplier_id":"SUP259",
-    "supplier_name":"ABC Technologies",
-    "country":"India"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":3573
   },
   {
     "supplier_id":"SUP260",
-    "supplier_name":"ABC Technologies",
-    "country":"India"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":4154
   },
   {
     "supplier_id":"SUP261",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "supplier_name":"ABC Technologies",
+    "country":"India",
+    "capacity_units_per_month":3402
   },
   {
     "supplier_id":"SUP262",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"UK",
+    "capacity_units_per_month":3111
   },
   {
     "supplier_id":"SUP263",
-    "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "supplier_name":"ABC Technologies",
+    "country":"USA",
+    "capacity_units_per_month":2729
   },
   {
     "supplier_id":"SUP264",
-    "supplier_name":"Prime Materials",
-    "country":"India"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":4399
   },
   {
     "supplier_id":"SUP265",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Germany",
+    "capacity_units_per_month":683
   },
   {
     "supplier_id":"SUP266",
-    "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":1901
   },
   {
     "supplier_id":"SUP267",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"India",
+    "capacity_units_per_month":1037
   },
   {
     "supplier_id":"SUP268",
     "supplier_name":"Prime Materials",
-    "country":"UK"
+    "country":"India",
+    "capacity_units_per_month":1765
   },
   {
     "supplier_id":"SUP269",
-    "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":2658
   },
   {
     "supplier_id":"SUP270",
-    "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":4026
   },
   {
     "supplier_id":"SUP271",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":3867
   },
   {
     "supplier_id":"SUP272",
     "supplier_name":"Global Components",
-    "country":"Japan"
+    "country":"UK",
+    "capacity_units_per_month":1723
   },
   {
     "supplier_id":"SUP273",
-    "supplier_name":"Prime Materials",
-    "country":"Japan"
+    "supplier_name":"Global Components",
+    "country":"Germany",
+    "capacity_units_per_month":4644
   },
   {
     "supplier_id":"SUP274",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"Sunrise Electronics",
+    "country":"USA",
+    "capacity_units_per_month":3745
   },
   {
     "supplier_id":"SUP275",
     "supplier_name":"Global Components",
-    "country":"India"
+    "country":"USA",
+    "capacity_units_per_month":1875
   },
   {
     "supplier_id":"SUP276",
-    "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":4267
   },
   {
     "supplier_id":"SUP277",
-    "supplier_name":"Global Components",
-    "country":"Germany"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":673
   },
   {
     "supplier_id":"SUP278",
     "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "country":"Japan",
+    "capacity_units_per_month":2611
   },
   {
     "supplier_id":"SUP279",
-    "supplier_name":"Prime Materials",
-    "country":"UK"
+    "supplier_name":"Global Components",
+    "country":"Japan",
+    "capacity_units_per_month":3075
   },
   {
     "supplier_id":"SUP280",
-    "supplier_name":"Prime Materials",
-    "country":"Japan"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":708
   },
   {
     "supplier_id":"SUP281",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"India",
+    "capacity_units_per_month":3625
   },
   {
     "supplier_id":"SUP282",
-    "supplier_name":"Global Components",
-    "country":"Japan"
+    "supplier_name":"Reliable Industries",
+    "country":"Japan",
+    "capacity_units_per_month":4568
   },
   {
     "supplier_id":"SUP283",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"ABC Technologies",
+    "country":"Germany",
+    "capacity_units_per_month":4823
   },
   {
     "supplier_id":"SUP284",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Prime Materials",
+    "country":"India",
+    "capacity_units_per_month":3656
   },
   {
     "supplier_id":"SUP285",
     "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "country":"USA",
+    "capacity_units_per_month":562
   },
   {
     "supplier_id":"SUP286",
     "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "country":"Japan",
+    "capacity_units_per_month":1734
   },
   {
     "supplier_id":"SUP287",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":4421
   },
   {
     "supplier_id":"SUP288",
-    "supplier_name":"Reliable Industries",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"India",
+    "capacity_units_per_month":2096
   },
   {
     "supplier_id":"SUP289",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":946
   },
   {
     "supplier_id":"SUP290",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"Prime Materials",
+    "country":"UK",
+    "capacity_units_per_month":3616
   },
   {
     "supplier_id":"SUP291",
-    "supplier_name":"Sunrise Electronics",
-    "country":"UK"
+    "supplier_name":"Prime Materials",
+    "country":"UK",
+    "capacity_units_per_month":4063
   },
   {
     "supplier_id":"SUP292",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "supplier_name":"Global Components",
+    "country":"Japan",
+    "capacity_units_per_month":3848
   },
   {
     "supplier_id":"SUP293",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"Prime Materials",
+    "country":"Japan",
+    "capacity_units_per_month":1201
   },
   {
     "supplier_id":"SUP294",
-    "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":1696
   },
   {
     "supplier_id":"SUP295",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"Prime Materials",
+    "country":"UK",
+    "capacity_units_per_month":4438
   },
   {
     "supplier_id":"SUP296",
-    "supplier_name":"Prime Materials",
-    "country":"India"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":2150
   },
   {
     "supplier_id":"SUP297",
     "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "country":"Germany",
+    "capacity_units_per_month":2580
   },
   {
     "supplier_id":"SUP298",
-    "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "supplier_name":"Sunrise Electronics",
+    "country":"USA",
+    "capacity_units_per_month":4039
   },
   {
     "supplier_id":"SUP299",
-    "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "supplier_name":"Reliable Industries",
+    "country":"USA",
+    "capacity_units_per_month":4417
   },
   {
     "supplier_id":"SUP300",
-    "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":2456
   },
   {
     "supplier_id":"SUP301",
-    "supplier_name":"Prime Materials",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"Japan",
+    "capacity_units_per_month":4208
   },
   {
     "supplier_id":"SUP302",
-    "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":2600
   },
   {
     "supplier_id":"SUP303",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":4063
   },
   {
     "supplier_id":"SUP304",
-    "supplier_name":"Global Components",
-    "country":"Germany"
+    "supplier_name":"Sunrise Electronics",
+    "country":"UK",
+    "capacity_units_per_month":4943
   },
   {
     "supplier_id":"SUP305",
-    "supplier_name":"Sunrise Electronics",
-    "country":"UK"
+    "supplier_name":"Reliable Industries",
+    "country":"Japan",
+    "capacity_units_per_month":4193
   },
   {
     "supplier_id":"SUP306",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"Germany",
+    "capacity_units_per_month":592
   },
   {
     "supplier_id":"SUP307",
     "supplier_name":"Global Components",
-    "country":"Japan"
+    "country":"UK",
+    "capacity_units_per_month":1479
   },
   {
     "supplier_id":"SUP308",
-    "supplier_name":"Global Components",
-    "country":"Germany"
+    "supplier_name":"ABC Technologies",
+    "country":"Japan",
+    "capacity_units_per_month":2063
   },
   {
     "supplier_id":"SUP309",
-    "supplier_name":"Global Components",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Germany",
+    "capacity_units_per_month":2304
   },
   {
     "supplier_id":"SUP310",
-    "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Japan",
+    "capacity_units_per_month":2329
   },
   {
     "supplier_id":"SUP311",
-    "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "supplier_name":"Prime Materials",
+    "country":"UK",
+    "capacity_units_per_month":3655
   },
   {
     "supplier_id":"SUP312",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"Reliable Industries",
+    "country":"USA",
+    "capacity_units_per_month":2764
   },
   {
     "supplier_id":"SUP313",
-    "supplier_name":"Prime Materials",
-    "country":"UK"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":4816
   },
   {
     "supplier_id":"SUP314",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"India",
+    "capacity_units_per_month":2358
   },
   {
     "supplier_id":"SUP315",
-    "supplier_name":"ABC Technologies",
-    "country":"India"
+    "supplier_name":"Reliable Industries",
+    "country":"Germany",
+    "capacity_units_per_month":725
   },
   {
     "supplier_id":"SUP316",
-    "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":3413
   },
   {
     "supplier_id":"SUP317",
-    "supplier_name":"Global Components",
-    "country":"Japan"
+    "supplier_name":"Prime Materials",
+    "country":"Germany",
+    "capacity_units_per_month":3693
   },
   {
     "supplier_id":"SUP318",
-    "supplier_name":"ABC Technologies",
-    "country":"India"
+    "supplier_name":"Sunrise Electronics",
+    "country":"USA",
+    "capacity_units_per_month":3804
   },
   {
     "supplier_id":"SUP319",
-    "supplier_name":"Sunrise Electronics",
-    "country":"UK"
+    "supplier_name":"Global Components",
+    "country":"UK",
+    "capacity_units_per_month":3759
   },
   {
     "supplier_id":"SUP320",
-    "supplier_name":"Global Components",
-    "country":"UK"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":3980
   },
   {
     "supplier_id":"SUP321",
-    "supplier_name":"Prime Materials",
-    "country":"UK"
+    "supplier_name":"ABC Technologies",
+    "country":"USA",
+    "capacity_units_per_month":1022
   },
   {
     "supplier_id":"SUP322",
     "supplier_name":"ABC Technologies",
-    "country":"India"
+    "country":"USA",
+    "capacity_units_per_month":4079
   },
   {
     "supplier_id":"SUP323",
-    "supplier_name":"Reliable Industries",
-    "country":"India"
+    "supplier_name":"Global Components",
+    "country":"UK",
+    "capacity_units_per_month":4378
   },
   {
     "supplier_id":"SUP324",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":2557
   },
   {
     "supplier_id":"SUP325",
-    "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "supplier_name":"Prime Materials",
+    "country":"USA",
+    "capacity_units_per_month":2782
   },
   {
     "supplier_id":"SUP326",
-    "supplier_name":"Global Components",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"USA",
+    "capacity_units_per_month":639
   },
   {
     "supplier_id":"SUP327",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"Germany",
+    "capacity_units_per_month":1944
   },
   {
     "supplier_id":"SUP328",
     "supplier_name":"Global Components",
-    "country":"Germany"
+    "country":"Japan",
+    "capacity_units_per_month":1741
   },
   {
     "supplier_id":"SUP329",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Germany",
+    "capacity_units_per_month":2407
   },
   {
     "supplier_id":"SUP330",
-    "supplier_name":"Reliable Industries",
-    "country":"India"
+    "supplier_name":"Sunrise Electronics",
+    "country":"USA",
+    "capacity_units_per_month":1526
   },
   {
     "supplier_id":"SUP331",
-    "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "supplier_name":"Sunrise Electronics",
+    "country":"USA",
+    "capacity_units_per_month":1680
   },
   {
     "supplier_id":"SUP332",
-    "supplier_name":"Prime Materials",
-    "country":"India"
+    "supplier_name":"Reliable Industries",
+    "country":"USA",
+    "capacity_units_per_month":1121
   },
   {
     "supplier_id":"SUP333",
     "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "country":"Japan",
+    "capacity_units_per_month":2109
   },
   {
     "supplier_id":"SUP334",
-    "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "supplier_name":"Prime Materials",
+    "country":"UK",
+    "capacity_units_per_month":4275
   },
   {
     "supplier_id":"SUP335",
-    "supplier_name":"ABC Technologies",
-    "country":"Japan"
+    "supplier_name":"Reliable Industries",
+    "country":"India",
+    "capacity_units_per_month":4697
   },
   {
     "supplier_id":"SUP336",
-    "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":2584
   },
   {
     "supplier_id":"SUP337",
-    "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":2793
   },
   {
     "supplier_id":"SUP338",
-    "supplier_name":"Reliable Industries",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":766
   },
   {
     "supplier_id":"SUP339",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"India",
+    "capacity_units_per_month":1588
   },
   {
     "supplier_id":"SUP340",
-    "supplier_name":"Prime Materials",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"USA",
+    "capacity_units_per_month":680
   },
   {
     "supplier_id":"SUP341",
-    "supplier_name":"ABC Technologies",
-    "country":"India"
+    "supplier_name":"Global Components",
+    "country":"Japan",
+    "capacity_units_per_month":4530
   },
   {
     "supplier_id":"SUP342",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"Japan",
+    "capacity_units_per_month":994
   },
   {
     "supplier_id":"SUP343",
     "supplier_name":"Prime Materials",
-    "country":"Germany"
+    "country":"UK",
+    "capacity_units_per_month":4855
   },
   {
     "supplier_id":"SUP344",
     "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "country":"UK",
+    "capacity_units_per_month":1506
   },
   {
     "supplier_id":"SUP345",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"Japan",
+    "capacity_units_per_month":2447
   },
   {
     "supplier_id":"SUP346",
     "supplier_name":"ABC Technologies",
-    "country":"Japan"
+    "country":"UK",
+    "capacity_units_per_month":668
   },
   {
     "supplier_id":"SUP347",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":1983
   },
   {
     "supplier_id":"SUP348",
-    "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"USA",
+    "capacity_units_per_month":2046
   },
   {
     "supplier_id":"SUP349",
     "supplier_name":"Prime Materials",
-    "country":"Germany"
+    "country":"USA",
+    "capacity_units_per_month":2496
   },
   {
     "supplier_id":"SUP350",
-    "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"Japan",
+    "capacity_units_per_month":842
   },
   {
     "supplier_id":"SUP351",
-    "supplier_name":"Global Components",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Japan",
+    "capacity_units_per_month":2267
   },
   {
     "supplier_id":"SUP352",
-    "supplier_name":"Prime Materials",
-    "country":"Japan"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":958
   },
   {
     "supplier_id":"SUP353",
-    "supplier_name":"Prime Materials",
-    "country":"India"
+    "supplier_name":"Sunrise Electronics",
+    "country":"USA",
+    "capacity_units_per_month":4710
   },
   {
     "supplier_id":"SUP354",
-    "supplier_name":"Global Components",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"Germany",
+    "capacity_units_per_month":2900
   },
   {
     "supplier_id":"SUP355",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":2631
   },
   {
     "supplier_id":"SUP356",
     "supplier_name":"Global Components",
-    "country":"India"
+    "country":"USA",
+    "capacity_units_per_month":4375
   },
   {
     "supplier_id":"SUP357",
     "supplier_name":"Reliable Industries",
-    "country":"India"
+    "country":"Germany",
+    "capacity_units_per_month":4320
   },
   {
     "supplier_id":"SUP358",
-    "supplier_name":"Prime Materials",
-    "country":"Germany"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":4615
   },
   {
     "supplier_id":"SUP359",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"Germany",
+    "capacity_units_per_month":2145
   },
   {
     "supplier_id":"SUP360",
-    "supplier_name":"Global Components",
-    "country":"USA"
+    "supplier_name":"Prime Materials",
+    "country":"India",
+    "capacity_units_per_month":1117
   },
   {
     "supplier_id":"SUP361",
-    "supplier_name":"Reliable Industries",
-    "country":"India"
+    "supplier_name":"Prime Materials",
+    "country":"USA",
+    "capacity_units_per_month":4170
   },
   {
     "supplier_id":"SUP362",
-    "supplier_name":"ABC Technologies",
-    "country":"Japan"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":529
   },
   {
     "supplier_id":"SUP363",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"Germany",
+    "capacity_units_per_month":2281
   },
   {
     "supplier_id":"SUP364",
     "supplier_name":"Global Components",
-    "country":"UK"
+    "country":"India",
+    "capacity_units_per_month":4478
   },
   {
     "supplier_id":"SUP365",
-    "supplier_name":"Prime Materials",
-    "country":"UK"
+    "supplier_name":"Global Components",
+    "country":"UK",
+    "capacity_units_per_month":3093
   },
   {
     "supplier_id":"SUP366",
-    "supplier_name":"Global Components",
-    "country":"USA"
+    "supplier_name":"Prime Materials",
+    "country":"USA",
+    "capacity_units_per_month":1602
   },
   {
     "supplier_id":"SUP367",
-    "supplier_name":"Global Components",
-    "country":"USA"
+    "supplier_name":"Prime Materials",
+    "country":"Japan",
+    "capacity_units_per_month":4770
   },
   {
     "supplier_id":"SUP368",
-    "supplier_name":"Global Components",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":2177
   },
   {
     "supplier_id":"SUP369",
-    "supplier_name":"Global Components",
-    "country":"USA"
+    "supplier_name":"Prime Materials",
+    "country":"UK",
+    "capacity_units_per_month":1879
   },
   {
     "supplier_id":"SUP370",
-    "supplier_name":"Global Components",
-    "country":"Japan"
+    "supplier_name":"Prime Materials",
+    "country":"Germany",
+    "capacity_units_per_month":2113
   },
   {
     "supplier_id":"SUP371",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"Germany",
+    "capacity_units_per_month":2327
   },
   {
     "supplier_id":"SUP372",
     "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "country":"Germany",
+    "capacity_units_per_month":913
   },
   {
     "supplier_id":"SUP373",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"Prime Materials",
+    "country":"Japan",
+    "capacity_units_per_month":4515
   },
   {
     "supplier_id":"SUP374",
-    "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "supplier_name":"Reliable Industries",
+    "country":"Japan",
+    "capacity_units_per_month":1887
   },
   {
     "supplier_id":"SUP375",
-    "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "supplier_name":"Reliable Industries",
+    "country":"Germany",
+    "capacity_units_per_month":3919
   },
   {
     "supplier_id":"SUP376",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"UK",
+    "capacity_units_per_month":2563
   },
   {
     "supplier_id":"SUP377",
-    "supplier_name":"Global Components",
-    "country":"Japan"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Japan",
+    "capacity_units_per_month":2191
   },
   {
     "supplier_id":"SUP378",
-    "supplier_name":"Prime Materials",
-    "country":"India"
+    "supplier_name":"Global Components",
+    "country":"Japan",
+    "capacity_units_per_month":1876
   },
   {
     "supplier_id":"SUP379",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"Germany",
+    "capacity_units_per_month":4163
   },
   {
     "supplier_id":"SUP380",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"Prime Materials",
+    "country":"Germany",
+    "capacity_units_per_month":1331
   },
   {
     "supplier_id":"SUP381",
-    "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Germany",
+    "capacity_units_per_month":1392
   },
   {
     "supplier_id":"SUP382",
     "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "country":"India",
+    "capacity_units_per_month":3604
   },
   {
     "supplier_id":"SUP383",
-    "supplier_name":"Prime Materials",
-    "country":"India"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Japan",
+    "capacity_units_per_month":2186
   },
   {
     "supplier_id":"SUP384",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"USA",
+    "capacity_units_per_month":3503
   },
   {
     "supplier_id":"SUP385",
-    "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "supplier_name":"Reliable Industries",
+    "country":"Germany",
+    "capacity_units_per_month":956
   },
   {
     "supplier_id":"SUP386",
     "supplier_name":"Prime Materials",
-    "country":"USA"
+    "country":"Germany",
+    "capacity_units_per_month":3064
   },
   {
     "supplier_id":"SUP387",
     "supplier_name":"Sunrise Electronics",
-    "country":"UK"
+    "country":"Germany",
+    "capacity_units_per_month":3885
   },
   {
     "supplier_id":"SUP388",
-    "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "supplier_name":"Global Components",
+    "country":"Germany",
+    "capacity_units_per_month":3541
   },
   {
     "supplier_id":"SUP389",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"Global Components",
+    "country":"Germany",
+    "capacity_units_per_month":2155
   },
   {
     "supplier_id":"SUP390",
-    "supplier_name":"ABC Technologies",
-    "country":"India"
+    "supplier_name":"Prime Materials",
+    "country":"USA",
+    "capacity_units_per_month":1777
   },
   {
     "supplier_id":"SUP391",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"UK",
+    "capacity_units_per_month":3045
   },
   {
     "supplier_id":"SUP392",
-    "supplier_name":"ABC Technologies",
-    "country":"India"
+    "supplier_name":"Reliable Industries",
+    "country":"USA",
+    "capacity_units_per_month":4278
   },
   {
     "supplier_id":"SUP393",
     "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "country":"India",
+    "capacity_units_per_month":2291
   },
   {
     "supplier_id":"SUP394",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "supplier_name":"Reliable Industries",
+    "country":"Japan",
+    "capacity_units_per_month":4407
   },
   {
     "supplier_id":"SUP395",
-    "supplier_name":"Global Components",
-    "country":"Japan"
+    "supplier_name":"Sunrise Electronics",
+    "country":"USA",
+    "capacity_units_per_month":4007
   },
   {
     "supplier_id":"SUP396",
-    "supplier_name":"Prime Materials",
-    "country":"India"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Germany",
+    "capacity_units_per_month":3735
   },
   {
     "supplier_id":"SUP397",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "supplier_name":"Global Components",
+    "country":"Germany",
+    "capacity_units_per_month":4824
   },
   {
     "supplier_id":"SUP398",
-    "supplier_name":"Global Components",
-    "country":"USA"
+    "supplier_name":"ABC Technologies",
+    "country":"India",
+    "capacity_units_per_month":3806
   },
   {
     "supplier_id":"SUP399",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"ABC Technologies",
+    "country":"India",
+    "capacity_units_per_month":2360
   },
   {
     "supplier_id":"SUP400",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Germany",
+    "capacity_units_per_month":4420
   },
   {
     "supplier_id":"SUP401",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"Germany",
+    "capacity_units_per_month":2274
   },
   {
     "supplier_id":"SUP402",
     "supplier_name":"Global Components",
-    "country":"USA"
+    "country":"India",
+    "capacity_units_per_month":1572
   },
   {
     "supplier_id":"SUP403",
-    "supplier_name":"Prime Materials",
-    "country":"Japan"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":3893
   },
   {
     "supplier_id":"SUP404",
-    "supplier_name":"Global Components",
-    "country":"UK"
+    "supplier_name":"ABC Technologies",
+    "country":"Germany",
+    "capacity_units_per_month":1526
   },
   {
     "supplier_id":"SUP405",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":719
   },
   {
     "supplier_id":"SUP406",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"ABC Technologies",
+    "country":"USA",
+    "capacity_units_per_month":2036
   },
   {
     "supplier_id":"SUP407",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"UK",
+    "capacity_units_per_month":1543
   },
   {
     "supplier_id":"SUP408",
-    "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":3404
   },
   {
     "supplier_id":"SUP409",
-    "supplier_name":"ABC Technologies",
-    "country":"India"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":2220
   },
   {
     "supplier_id":"SUP410",
-    "supplier_name":"Global Components",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"Japan",
+    "capacity_units_per_month":1715
   },
   {
     "supplier_id":"SUP411",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":1093
   },
   {
     "supplier_id":"SUP412",
-    "supplier_name":"Global Components",
-    "country":"Japan"
+    "supplier_name":"Sunrise Electronics",
+    "country":"USA",
+    "capacity_units_per_month":3726
   },
   {
     "supplier_id":"SUP413",
-    "supplier_name":"ABC Technologies",
-    "country":"India"
+    "supplier_name":"Prime Materials",
+    "country":"Japan",
+    "capacity_units_per_month":2425
   },
   {
     "supplier_id":"SUP414",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":2463
   },
   {
     "supplier_id":"SUP415",
-    "supplier_name":"Prime Materials",
-    "country":"Japan"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":4371
   },
   {
     "supplier_id":"SUP416",
-    "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "supplier_name":"ABC Technologies",
+    "country":"India",
+    "capacity_units_per_month":2848
   },
   {
     "supplier_id":"SUP417",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"UK",
+    "capacity_units_per_month":1276
   },
   {
     "supplier_id":"SUP418",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"USA",
+    "capacity_units_per_month":1123
   },
   {
     "supplier_id":"SUP419",
-    "supplier_name":"Global Components",
-    "country":"UK"
+    "supplier_name":"Reliable Industries",
+    "country":"Japan",
+    "capacity_units_per_month":1561
   },
   {
     "supplier_id":"SUP420",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"Global Components",
+    "country":"Japan",
+    "capacity_units_per_month":1244
   },
   {
     "supplier_id":"SUP421",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "supplier_name":"Prime Materials",
+    "country":"Germany",
+    "capacity_units_per_month":1404
   },
   {
     "supplier_id":"SUP422",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"Japan",
+    "capacity_units_per_month":4671
   },
   {
     "supplier_id":"SUP423",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"Germany",
+    "capacity_units_per_month":4602
   },
   {
     "supplier_id":"SUP424",
-    "supplier_name":"Reliable Industries",
-    "country":"India"
+    "supplier_name":"Prime Materials",
+    "country":"India",
+    "capacity_units_per_month":1425
   },
   {
     "supplier_id":"SUP425",
-    "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "supplier_name":"Global Components",
+    "country":"UK",
+    "capacity_units_per_month":1107
   },
   {
     "supplier_id":"SUP426",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"Japan",
+    "capacity_units_per_month":1548
   },
   {
     "supplier_id":"SUP427",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Japan",
+    "capacity_units_per_month":3435
   },
   {
     "supplier_id":"SUP428",
-    "supplier_name":"Prime Materials",
-    "country":"Japan"
+    "supplier_name":"Reliable Industries",
+    "country":"USA",
+    "capacity_units_per_month":768
   },
   {
     "supplier_id":"SUP429",
-    "supplier_name":"ABC Technologies",
-    "country":"Japan"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Japan",
+    "capacity_units_per_month":2953
   },
   {
     "supplier_id":"SUP430",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"Reliable Industries",
+    "country":"India",
+    "capacity_units_per_month":3213
   },
   {
     "supplier_id":"SUP431",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"Global Components",
+    "country":"UK",
+    "capacity_units_per_month":1231
   },
   {
     "supplier_id":"SUP432",
-    "supplier_name":"Global Components",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":957
   },
   {
     "supplier_id":"SUP433",
-    "supplier_name":"Global Components",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":1201
   },
   {
     "supplier_id":"SUP434",
-    "supplier_name":"Prime Materials",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"UK",
+    "capacity_units_per_month":2933
   },
   {
     "supplier_id":"SUP435",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"India",
+    "capacity_units_per_month":3403
   },
   {
     "supplier_id":"SUP436",
     "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "country":"Germany",
+    "capacity_units_per_month":4501
   },
   {
     "supplier_id":"SUP437",
-    "supplier_name":"Global Components",
-    "country":"USA"
+    "supplier_name":"Prime Materials",
+    "country":"USA",
+    "capacity_units_per_month":1188
   },
   {
     "supplier_id":"SUP438",
     "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "country":"USA",
+    "capacity_units_per_month":4019
   },
   {
     "supplier_id":"SUP439",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":1123
   },
   {
     "supplier_id":"SUP440",
-    "supplier_name":"ABC Technologies",
-    "country":"India"
+    "supplier_name":"Reliable Industries",
+    "country":"Germany",
+    "capacity_units_per_month":3197
   },
   {
     "supplier_id":"SUP441",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"Prime Materials",
+    "country":"USA",
+    "capacity_units_per_month":2538
   },
   {
     "supplier_id":"SUP442",
     "supplier_name":"Prime Materials",
-    "country":"USA"
+    "country":"India",
+    "capacity_units_per_month":2631
   },
   {
     "supplier_id":"SUP443",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":4150
   },
   {
     "supplier_id":"SUP444",
     "supplier_name":"Global Components",
-    "country":"USA"
+    "country":"UK",
+    "capacity_units_per_month":4890
   },
   {
     "supplier_id":"SUP445",
     "supplier_name":"ABC Technologies",
-    "country":"India"
+    "country":"UK",
+    "capacity_units_per_month":4013
   },
   {
     "supplier_id":"SUP446",
     "supplier_name":"ABC Technologies",
-    "country":"Japan"
+    "country":"India",
+    "capacity_units_per_month":1883
   },
   {
     "supplier_id":"SUP447",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"Prime Materials",
+    "country":"USA",
+    "capacity_units_per_month":1244
   },
   {
     "supplier_id":"SUP448",
-    "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "supplier_name":"Prime Materials",
+    "country":"Germany",
+    "capacity_units_per_month":2278
   },
   {
     "supplier_id":"SUP449",
     "supplier_name":"Prime Materials",
-    "country":"UK"
+    "country":"USA",
+    "capacity_units_per_month":2381
   },
   {
     "supplier_id":"SUP450",
     "supplier_name":"Prime Materials",
-    "country":"India"
+    "country":"Germany",
+    "capacity_units_per_month":1816
   },
   {
     "supplier_id":"SUP451",
-    "supplier_name":"Sunrise Electronics",
-    "country":"UK"
+    "supplier_name":"Global Components",
+    "country":"UK",
+    "capacity_units_per_month":4344
   },
   {
     "supplier_id":"SUP452",
     "supplier_name":"Global Components",
-    "country":"India"
+    "country":"USA",
+    "capacity_units_per_month":4064
   },
   {
     "supplier_id":"SUP453",
     "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "country":"USA",
+    "capacity_units_per_month":765
   },
   {
     "supplier_id":"SUP454",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"Germany",
+    "capacity_units_per_month":1711
   },
   {
     "supplier_id":"SUP455",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"UK",
+    "capacity_units_per_month":2096
   },
   {
     "supplier_id":"SUP456",
-    "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "supplier_name":"Reliable Industries",
+    "country":"Germany",
+    "capacity_units_per_month":2681
   },
   {
     "supplier_id":"SUP457",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"USA",
+    "capacity_units_per_month":1823
   },
   {
     "supplier_id":"SUP458",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"Prime Materials",
+    "country":"USA",
+    "capacity_units_per_month":3066
   },
   {
     "supplier_id":"SUP459",
-    "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "supplier_name":"Global Components",
+    "country":"Japan",
+    "capacity_units_per_month":1855
   },
   {
     "supplier_id":"SUP460",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"Prime Materials",
+    "country":"Germany",
+    "capacity_units_per_month":3277
   },
   {
     "supplier_id":"SUP461",
-    "supplier_name":"Prime Materials",
-    "country":"UK"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":1153
   },
   {
     "supplier_id":"SUP462",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"ABC Technologies",
+    "country":"USA",
+    "capacity_units_per_month":2572
   },
   {
     "supplier_id":"SUP463",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "supplier_name":"Reliable Industries",
+    "country":"Japan",
+    "capacity_units_per_month":2217
   },
   {
     "supplier_id":"SUP464",
-    "supplier_name":"Prime Materials",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":3294
   },
   {
     "supplier_id":"SUP465",
     "supplier_name":"ABC Technologies",
-    "country":"India"
+    "country":"UK",
+    "capacity_units_per_month":3677
   },
   {
     "supplier_id":"SUP466",
-    "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "supplier_name":"Prime Materials",
+    "country":"UK",
+    "capacity_units_per_month":3714
   },
   {
     "supplier_id":"SUP467",
     "supplier_name":"Prime Materials",
-    "country":"UK"
+    "country":"UK",
+    "capacity_units_per_month":1076
   },
   {
     "supplier_id":"SUP468",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"India",
+    "capacity_units_per_month":2972
   },
   {
     "supplier_id":"SUP469",
-    "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"Japan",
+    "capacity_units_per_month":2604
   },
   {
     "supplier_id":"SUP470",
-    "supplier_name":"Global Components",
-    "country":"Japan"
+    "supplier_name":"Reliable Industries",
+    "country":"Germany",
+    "capacity_units_per_month":3285
   },
   {
     "supplier_id":"SUP471",
     "supplier_name":"Prime Materials",
-    "country":"Germany"
+    "country":"Japan",
+    "capacity_units_per_month":3534
   },
   {
     "supplier_id":"SUP472",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"UK",
+    "capacity_units_per_month":2353
   },
   {
     "supplier_id":"SUP473",
     "supplier_name":"Sunrise Electronics",
-    "country":"UK"
+    "country":"Germany",
+    "capacity_units_per_month":4517
   },
   {
     "supplier_id":"SUP474",
     "supplier_name":"Global Components",
-    "country":"Japan"
+    "country":"USA",
+    "capacity_units_per_month":2608
   },
   {
     "supplier_id":"SUP475",
     "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "country":"India",
+    "capacity_units_per_month":3417
   },
   {
     "supplier_id":"SUP476",
-    "supplier_name":"Global Components",
-    "country":"UK"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":2776
   },
   {
     "supplier_id":"SUP477",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"India",
+    "capacity_units_per_month":3372
   },
   {
     "supplier_id":"SUP478",
-    "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "supplier_name":"Reliable Industries",
+    "country":"Germany",
+    "capacity_units_per_month":3871
   },
   {
     "supplier_id":"SUP479",
-    "supplier_name":"Prime Materials",
-    "country":"Japan"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":2859
   },
   {
     "supplier_id":"SUP480",
-    "supplier_name":"ABC Technologies",
-    "country":"Japan"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":3836
   },
   {
     "supplier_id":"SUP481",
-    "supplier_name":"Sunrise Electronics",
-    "country":"UK"
+    "supplier_name":"Global Components",
+    "country":"Germany",
+    "capacity_units_per_month":4978
   },
   {
     "supplier_id":"SUP482",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"ABC Technologies",
+    "country":"India",
+    "capacity_units_per_month":1023
   },
   {
     "supplier_id":"SUP483",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "supplier_name":"Global Components",
+    "country":"Germany",
+    "capacity_units_per_month":815
   },
   {
     "supplier_id":"SUP484",
     "supplier_name":"Global Components",
-    "country":"Germany"
+    "country":"UK",
+    "capacity_units_per_month":4645
   },
   {
     "supplier_id":"SUP485",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"Germany",
+    "capacity_units_per_month":4815
   },
   {
     "supplier_id":"SUP486",
     "supplier_name":"Reliable Industries",
-    "country":"India"
+    "country":"Japan",
+    "capacity_units_per_month":4898
   },
   {
     "supplier_id":"SUP487",
-    "supplier_name":"ABC Technologies",
-    "country":"Japan"
+    "supplier_name":"Prime Materials",
+    "country":"Japan",
+    "capacity_units_per_month":3730
   },
   {
     "supplier_id":"SUP488",
-    "supplier_name":"Global Components",
-    "country":"Japan"
+    "supplier_name":"Sunrise Electronics",
+    "country":"UK",
+    "capacity_units_per_month":1804
   },
   {
     "supplier_id":"SUP489",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"UK",
+    "capacity_units_per_month":2050
   },
   {
     "supplier_id":"SUP490",
     "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "country":"Germany",
+    "capacity_units_per_month":2620
   },
   {
     "supplier_id":"SUP491",
     "supplier_name":"Global Components",
-    "country":"Germany"
+    "country":"UK",
+    "capacity_units_per_month":4307
   },
   {
     "supplier_id":"SUP492",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":2803
   },
   {
     "supplier_id":"SUP493",
-    "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "supplier_name":"Prime Materials",
+    "country":"India",
+    "capacity_units_per_month":2373
   },
   {
     "supplier_id":"SUP494",
     "supplier_name":"Prime Materials",
-    "country":"India"
+    "country":"Germany",
+    "capacity_units_per_month":1399
   },
   {
     "supplier_id":"SUP495",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":4514
   },
   {
     "supplier_id":"SUP496",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"Global Components",
+    "country":"UK",
+    "capacity_units_per_month":4016
   },
   {
     "supplier_id":"SUP497",
     "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "country":"Japan",
+    "capacity_units_per_month":2846
   },
   {
     "supplier_id":"SUP498",
-    "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "supplier_name":"Global Components",
+    "country":"UK",
+    "capacity_units_per_month":941
   },
   {
     "supplier_id":"SUP499",
-    "supplier_name":"ABC Technologies",
-    "country":"India"
+    "supplier_name":"Reliable Industries",
+    "country":"USA",
+    "capacity_units_per_month":2326
   },
   {
     "supplier_id":"SUP500",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"Prime Materials",
+    "country":"Japan",
+    "capacity_units_per_month":3234
   },
   {
     "supplier_id":"SUP501",
-    "supplier_name":"Prime Materials",
-    "country":"Germany"
+    "supplier_name":"ABC Technologies",
+    "country":"Japan",
+    "capacity_units_per_month":2767
   },
   {
     "supplier_id":"SUP502",
-    "supplier_name":"Prime Materials",
-    "country":"UK"
+    "supplier_name":"ABC Technologies",
+    "country":"Japan",
+    "capacity_units_per_month":3327
   },
   {
     "supplier_id":"SUP503",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"Japan",
+    "capacity_units_per_month":3222
   },
   {
     "supplier_id":"SUP504",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"UK",
+    "capacity_units_per_month":3737
   },
   {
     "supplier_id":"SUP505",
     "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "country":"USA",
+    "capacity_units_per_month":3834
   },
   {
     "supplier_id":"SUP506",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"Prime Materials",
+    "country":"UK",
+    "capacity_units_per_month":1073
   },
   {
     "supplier_id":"SUP507",
     "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "country":"Germany",
+    "capacity_units_per_month":1625
   },
   {
     "supplier_id":"SUP508",
-    "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":4008
   },
   {
     "supplier_id":"SUP509",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"Sunrise Electronics",
+    "country":"USA",
+    "capacity_units_per_month":3757
   },
   {
     "supplier_id":"SUP510",
     "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "country":"UK",
+    "capacity_units_per_month":3745
   },
   {
     "supplier_id":"SUP511",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"India",
+    "capacity_units_per_month":1519
   },
   {
     "supplier_id":"SUP512",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"Prime Materials",
+    "country":"UK",
+    "capacity_units_per_month":3581
   },
   {
     "supplier_id":"SUP513",
     "supplier_name":"Global Components",
-    "country":"India"
+    "country":"Germany",
+    "capacity_units_per_month":3790
   },
   {
     "supplier_id":"SUP514",
-    "supplier_name":"Prime Materials",
-    "country":"Germany"
+    "supplier_name":"Sunrise Electronics",
+    "country":"UK",
+    "capacity_units_per_month":544
   },
   {
     "supplier_id":"SUP515",
-    "supplier_name":"Global Components",
-    "country":"Germany"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Japan",
+    "capacity_units_per_month":2742
   },
   {
     "supplier_id":"SUP516",
-    "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":866
   },
   {
     "supplier_id":"SUP517",
-    "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":1964
   },
   {
     "supplier_id":"SUP518",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"Japan",
+    "capacity_units_per_month":4033
   },
   {
     "supplier_id":"SUP519",
-    "supplier_name":"Global Components",
-    "country":"Japan"
+    "supplier_name":"Sunrise Electronics",
+    "country":"USA",
+    "capacity_units_per_month":3959
   },
   {
     "supplier_id":"SUP520",
-    "supplier_name":"Global Components",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"Japan",
+    "capacity_units_per_month":4576
   },
   {
     "supplier_id":"SUP521",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Japan",
+    "capacity_units_per_month":2330
   },
   {
     "supplier_id":"SUP522",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"Prime Materials",
+    "country":"USA",
+    "capacity_units_per_month":2228
   },
   {
     "supplier_id":"SUP523",
-    "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"UK",
+    "capacity_units_per_month":3025
   },
   {
     "supplier_id":"SUP524",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"Japan",
+    "capacity_units_per_month":3116
   },
   {
     "supplier_id":"SUP525",
-    "supplier_name":"Global Components",
-    "country":"UK"
+    "supplier_name":"Reliable Industries",
+    "country":"Japan",
+    "capacity_units_per_month":1787
   },
   {
     "supplier_id":"SUP526",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"Prime Materials",
+    "country":"Japan",
+    "capacity_units_per_month":4107
   },
   {
     "supplier_id":"SUP527",
     "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "country":"USA",
+    "capacity_units_per_month":3972
   },
   {
     "supplier_id":"SUP528",
-    "supplier_name":"Global Components",
-    "country":"Germany"
+    "supplier_name":"Sunrise Electronics",
+    "country":"USA",
+    "capacity_units_per_month":3250
   },
   {
     "supplier_id":"SUP529",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"Prime Materials",
+    "country":"UK",
+    "capacity_units_per_month":1287
   },
   {
     "supplier_id":"SUP530",
     "supplier_name":"Reliable Industries",
-    "country":"India"
+    "country":"USA",
+    "capacity_units_per_month":3315
   },
   {
     "supplier_id":"SUP531",
-    "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":3498
   },
   {
     "supplier_id":"SUP532",
     "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "country":"Japan",
+    "capacity_units_per_month":3084
   },
   {
     "supplier_id":"SUP533",
-    "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"USA",
+    "capacity_units_per_month":2222
   },
   {
     "supplier_id":"SUP534",
-    "supplier_name":"Prime Materials",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"Japan",
+    "capacity_units_per_month":1385
   },
   {
     "supplier_id":"SUP535",
-    "supplier_name":"Reliable Industries",
-    "country":"India"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Germany",
+    "capacity_units_per_month":3998
   },
   {
     "supplier_id":"SUP536",
-    "supplier_name":"ABC Technologies",
-    "country":"India"
+    "supplier_name":"Global Components",
+    "country":"Germany",
+    "capacity_units_per_month":4707
   },
   {
     "supplier_id":"SUP537",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"Reliable Industries",
+    "country":"Germany",
+    "capacity_units_per_month":4552
   },
   {
     "supplier_id":"SUP538",
-    "supplier_name":"Global Components",
-    "country":"UK"
+    "supplier_name":"Prime Materials",
+    "country":"India",
+    "capacity_units_per_month":3183
   },
   {
     "supplier_id":"SUP539",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":3160
   },
   {
     "supplier_id":"SUP540",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":4549
   },
   {
     "supplier_id":"SUP541",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"USA",
+    "capacity_units_per_month":1937
   },
   {
     "supplier_id":"SUP542",
-    "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"Germany",
+    "capacity_units_per_month":4380
   },
   {
     "supplier_id":"SUP543",
     "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "country":"UK",
+    "capacity_units_per_month":1689
   },
   {
     "supplier_id":"SUP544",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Germany",
+    "capacity_units_per_month":4782
   },
   {
     "supplier_id":"SUP545",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Germany",
+    "capacity_units_per_month":4988
   },
   {
     "supplier_id":"SUP546",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"Prime Materials",
+    "country":"India",
+    "capacity_units_per_month":4712
   },
   {
     "supplier_id":"SUP547",
-    "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "supplier_name":"Reliable Industries",
+    "country":"USA",
+    "capacity_units_per_month":2223
   },
   {
     "supplier_id":"SUP548",
-    "supplier_name":"Reliable Industries",
-    "country":"India"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":4898
   },
   {
     "supplier_id":"SUP549",
-    "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "supplier_name":"Prime Materials",
+    "country":"USA",
+    "capacity_units_per_month":1256
   },
   {
     "supplier_id":"SUP550",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"Reliable Industries",
+    "country":"USA",
+    "capacity_units_per_month":4507
   },
   {
     "supplier_id":"SUP551",
-    "supplier_name":"Global Components",
-    "country":"USA"
+    "supplier_name":"Prime Materials",
+    "country":"Germany",
+    "capacity_units_per_month":3224
   },
   {
     "supplier_id":"SUP552",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"Japan",
+    "capacity_units_per_month":4724
   },
   {
     "supplier_id":"SUP553",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"Prime Materials",
+    "country":"Japan",
+    "capacity_units_per_month":4394
   },
   {
     "supplier_id":"SUP554",
-    "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "supplier_name":"Global Components",
+    "country":"Germany",
+    "capacity_units_per_month":1941
   },
   {
     "supplier_id":"SUP555",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":1153
   },
   {
     "supplier_id":"SUP556",
-    "supplier_name":"Global Components",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Germany",
+    "capacity_units_per_month":2755
   },
   {
     "supplier_id":"SUP557",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Japan",
+    "capacity_units_per_month":1038
   },
   {
     "supplier_id":"SUP558",
     "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "country":"USA",
+    "capacity_units_per_month":1125
   },
   {
     "supplier_id":"SUP559",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"ABC Technologies",
+    "country":"India",
+    "capacity_units_per_month":1510
   },
   {
     "supplier_id":"SUP560",
-    "supplier_name":"Prime Materials",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"Germany",
+    "capacity_units_per_month":1521
   },
   {
     "supplier_id":"SUP561",
-    "supplier_name":"Global Components",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":3734
   },
   {
     "supplier_id":"SUP562",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"Japan",
+    "capacity_units_per_month":4427
   },
   {
     "supplier_id":"SUP563",
-    "supplier_name":"Global Components",
-    "country":"Japan"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":2063
   },
   {
     "supplier_id":"SUP564",
     "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "country":"Japan",
+    "capacity_units_per_month":4771
   },
   {
     "supplier_id":"SUP565",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"Prime Materials",
+    "country":"Japan",
+    "capacity_units_per_month":2144
   },
   {
     "supplier_id":"SUP566",
-    "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "supplier_name":"Prime Materials",
+    "country":"Germany",
+    "capacity_units_per_month":2365
   },
   {
     "supplier_id":"SUP567",
-    "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"USA",
+    "capacity_units_per_month":1484
   },
   {
     "supplier_id":"SUP568",
-    "supplier_name":"Global Components",
-    "country":"Germany"
+    "supplier_name":"ABC Technologies",
+    "country":"Japan",
+    "capacity_units_per_month":3848
   },
   {
     "supplier_id":"SUP569",
-    "supplier_name":"ABC Technologies",
-    "country":"India"
+    "supplier_name":"Reliable Industries",
+    "country":"USA",
+    "capacity_units_per_month":3324
   },
   {
     "supplier_id":"SUP570",
     "supplier_name":"Prime Materials",
-    "country":"USA"
+    "country":"UK",
+    "capacity_units_per_month":4230
   },
   {
     "supplier_id":"SUP571",
     "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "country":"UK",
+    "capacity_units_per_month":879
   },
   {
     "supplier_id":"SUP572",
-    "supplier_name":"Global Components",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Japan",
+    "capacity_units_per_month":1127
   },
   {
     "supplier_id":"SUP573",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"USA",
+    "capacity_units_per_month":1443
   },
   {
     "supplier_id":"SUP574",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Germany",
+    "capacity_units_per_month":567
   },
   {
     "supplier_id":"SUP575",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"Germany",
+    "capacity_units_per_month":4646
   },
   {
     "supplier_id":"SUP576",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":4414
   },
   {
     "supplier_id":"SUP577",
-    "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Japan",
+    "capacity_units_per_month":2271
   },
   {
     "supplier_id":"SUP578",
     "supplier_name":"Prime Materials",
-    "country":"USA"
+    "country":"USA",
+    "capacity_units_per_month":3327
   },
   {
     "supplier_id":"SUP579",
-    "supplier_name":"Global Components",
-    "country":"Germany"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Japan",
+    "capacity_units_per_month":1927
   },
   {
     "supplier_id":"SUP580",
     "supplier_name":"Sunrise Electronics",
-    "country":"UK"
+    "country":"Japan",
+    "capacity_units_per_month":1472
   },
   {
     "supplier_id":"SUP581",
-    "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "supplier_name":"Prime Materials",
+    "country":"India",
+    "capacity_units_per_month":2690
   },
   {
     "supplier_id":"SUP582",
-    "supplier_name":"Global Components",
-    "country":"Germany"
+    "supplier_name":"ABC Technologies",
+    "country":"India",
+    "capacity_units_per_month":596
   },
   {
     "supplier_id":"SUP583",
-    "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"Germany",
+    "capacity_units_per_month":2153
   },
   {
     "supplier_id":"SUP584",
-    "supplier_name":"Prime Materials",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":1060
   },
   {
     "supplier_id":"SUP585",
     "supplier_name":"Global Components",
-    "country":"UK"
+    "country":"Japan",
+    "capacity_units_per_month":2241
   },
   {
     "supplier_id":"SUP586",
-    "supplier_name":"Prime Materials",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Germany",
+    "capacity_units_per_month":1104
   },
   {
     "supplier_id":"SUP587",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Germany",
+    "capacity_units_per_month":1344
   },
   {
     "supplier_id":"SUP588",
     "supplier_name":"Prime Materials",
-    "country":"India"
+    "country":"Germany",
+    "capacity_units_per_month":4229
   },
   {
     "supplier_id":"SUP589",
-    "supplier_name":"Prime Materials",
-    "country":"Japan"
+    "supplier_name":"Global Components",
+    "country":"UK",
+    "capacity_units_per_month":2852
   },
   {
     "supplier_id":"SUP590",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"USA",
+    "capacity_units_per_month":937
   },
   {
     "supplier_id":"SUP591",
     "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "country":"UK",
+    "capacity_units_per_month":4229
   },
   {
     "supplier_id":"SUP592",
-    "supplier_name":"Global Components",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Germany",
+    "capacity_units_per_month":1277
   },
   {
     "supplier_id":"SUP593",
-    "supplier_name":"Prime Materials",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"USA",
+    "capacity_units_per_month":2099
   },
   {
     "supplier_id":"SUP594",
-    "supplier_name":"Sunrise Electronics",
-    "country":"UK"
+    "supplier_name":"Reliable Industries",
+    "country":"India",
+    "capacity_units_per_month":4426
   },
   {
     "supplier_id":"SUP595",
-    "supplier_name":"Prime Materials",
-    "country":"Japan"
+    "supplier_name":"Reliable Industries",
+    "country":"Germany",
+    "capacity_units_per_month":4872
   },
   {
     "supplier_id":"SUP596",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"Prime Materials",
+    "country":"Japan",
+    "capacity_units_per_month":2109
   },
   {
     "supplier_id":"SUP597",
-    "supplier_name":"Global Components",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":1534
   },
   {
     "supplier_id":"SUP598",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"Prime Materials",
+    "country":"Japan",
+    "capacity_units_per_month":2457
   },
   {
     "supplier_id":"SUP599",
-    "supplier_name":"Prime Materials",
-    "country":"Japan"
+    "supplier_name":"Sunrise Electronics",
+    "country":"USA",
+    "capacity_units_per_month":3081
   },
   {
     "supplier_id":"SUP600",
-    "supplier_name":"Prime Materials",
-    "country":"Germany"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Germany",
+    "capacity_units_per_month":2854
   },
   {
     "supplier_id":"SUP601",
-    "supplier_name":"ABC Technologies",
-    "country":"Japan"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":3429
   },
   {
     "supplier_id":"SUP602",
     "supplier_name":"Prime Materials",
-    "country":"India"
+    "country":"India",
+    "capacity_units_per_month":1527
   },
   {
     "supplier_id":"SUP603",
-    "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "supplier_name":"Global Components",
+    "country":"Germany",
+    "capacity_units_per_month":3227
   },
   {
     "supplier_id":"SUP604",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "supplier_name":"Prime Materials",
+    "country":"India",
+    "capacity_units_per_month":4294
   },
   {
     "supplier_id":"SUP605",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"Germany",
+    "capacity_units_per_month":970
   },
   {
     "supplier_id":"SUP606",
-    "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "supplier_name":"Prime Materials",
+    "country":"Germany",
+    "capacity_units_per_month":2788
   },
   {
     "supplier_id":"SUP607",
-    "supplier_name":"Prime Materials",
-    "country":"UK"
+    "supplier_name":"Reliable Industries",
+    "country":"India",
+    "capacity_units_per_month":1473
   },
   {
     "supplier_id":"SUP608",
-    "supplier_name":"Prime Materials",
-    "country":"India"
+    "supplier_name":"Sunrise Electronics",
+    "country":"UK",
+    "capacity_units_per_month":2426
   },
   {
     "supplier_id":"SUP609",
     "supplier_name":"Prime Materials",
-    "country":"Germany"
+    "country":"Germany",
+    "capacity_units_per_month":1279
   },
   {
     "supplier_id":"SUP610",
-    "supplier_name":"Prime Materials",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"Japan",
+    "capacity_units_per_month":4507
   },
   {
     "supplier_id":"SUP611",
-    "supplier_name":"Prime Materials",
-    "country":"Japan"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":4594
   },
   {
     "supplier_id":"SUP612",
     "supplier_name":"Global Components",
-    "country":"Germany"
+    "country":"UK",
+    "capacity_units_per_month":4063
   },
   {
     "supplier_id":"SUP613",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Japan",
+    "capacity_units_per_month":4711
   },
   {
     "supplier_id":"SUP614",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"ABC Technologies",
+    "country":"Germany",
+    "capacity_units_per_month":3674
   },
   {
     "supplier_id":"SUP615",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":1523
   },
   {
     "supplier_id":"SUP616",
-    "supplier_name":"Global Components",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"USA",
+    "capacity_units_per_month":2484
   },
   {
     "supplier_id":"SUP617",
     "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "country":"Germany",
+    "capacity_units_per_month":4385
   },
   {
     "supplier_id":"SUP618",
     "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "country":"USA",
+    "capacity_units_per_month":3172
   },
   {
     "supplier_id":"SUP619",
     "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "country":"Germany",
+    "capacity_units_per_month":3016
   },
   {
     "supplier_id":"SUP620",
     "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "country":"UK",
+    "capacity_units_per_month":1354
   },
   {
     "supplier_id":"SUP621",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"Prime Materials",
+    "country":"India",
+    "capacity_units_per_month":4828
   },
   {
     "supplier_id":"SUP622",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"India",
+    "capacity_units_per_month":2320
   },
   {
     "supplier_id":"SUP623",
     "supplier_name":"Global Components",
-    "country":"Japan"
+    "country":"Japan",
+    "capacity_units_per_month":4110
   },
   {
     "supplier_id":"SUP624",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "supplier_name":"Prime Materials",
+    "country":"Germany",
+    "capacity_units_per_month":3544
   },
   {
     "supplier_id":"SUP625",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"ABC Technologies",
+    "country":"Germany",
+    "capacity_units_per_month":4723
   },
   {
     "supplier_id":"SUP626",
-    "supplier_name":"Prime Materials",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":3934
   },
   {
     "supplier_id":"SUP627",
-    "supplier_name":"ABC Technologies",
-    "country":"India"
+    "supplier_name":"Prime Materials",
+    "country":"USA",
+    "capacity_units_per_month":2741
   },
   {
     "supplier_id":"SUP628",
-    "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":3693
   },
   {
     "supplier_id":"SUP629",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":1745
   },
   {
     "supplier_id":"SUP630",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":2032
   },
   {
     "supplier_id":"SUP631",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"Prime Materials",
+    "country":"Japan",
+    "capacity_units_per_month":3972
   },
   {
     "supplier_id":"SUP632",
-    "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "supplier_name":"ABC Technologies",
+    "country":"India",
+    "capacity_units_per_month":3664
   },
   {
     "supplier_id":"SUP633",
-    "supplier_name":"Global Components",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Germany",
+    "capacity_units_per_month":1337
   },
   {
     "supplier_id":"SUP634",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":2641
   },
   {
     "supplier_id":"SUP635",
-    "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "supplier_name":"Prime Materials",
+    "country":"USA",
+    "capacity_units_per_month":1385
   },
   {
     "supplier_id":"SUP636",
     "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "country":"Germany",
+    "capacity_units_per_month":4312
   },
   {
     "supplier_id":"SUP637",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"USA",
+    "capacity_units_per_month":4980
   },
   {
     "supplier_id":"SUP638",
-    "supplier_name":"Global Components",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"UK",
+    "capacity_units_per_month":4589
   },
   {
     "supplier_id":"SUP639",
-    "supplier_name":"ABC Technologies",
-    "country":"India"
+    "supplier_name":"Reliable Industries",
+    "country":"Germany",
+    "capacity_units_per_month":801
   },
   {
     "supplier_id":"SUP640",
-    "supplier_name":"Global Components",
-    "country":"USA"
+    "supplier_name":"ABC Technologies",
+    "country":"Japan",
+    "capacity_units_per_month":564
   },
   {
     "supplier_id":"SUP641",
-    "supplier_name":"Sunrise Electronics",
-    "country":"UK"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":3131
   },
   {
     "supplier_id":"SUP642",
-    "supplier_name":"Global Components",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Japan",
+    "capacity_units_per_month":2081
   },
   {
     "supplier_id":"SUP643",
-    "supplier_name":"Global Components",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"USA",
+    "capacity_units_per_month":1462
   },
   {
     "supplier_id":"SUP644",
     "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "country":"India",
+    "capacity_units_per_month":719
   },
   {
     "supplier_id":"SUP645",
-    "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "supplier_name":"ABC Technologies",
+    "country":"Germany",
+    "capacity_units_per_month":2941
   },
   {
     "supplier_id":"SUP646",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Germany",
+    "capacity_units_per_month":4241
   },
   {
     "supplier_id":"SUP647",
-    "supplier_name":"Global Components",
-    "country":"USA"
+    "supplier_name":"Prime Materials",
+    "country":"USA",
+    "capacity_units_per_month":1604
   },
   {
     "supplier_id":"SUP648",
     "supplier_name":"ABC Technologies",
-    "country":"India"
+    "country":"India",
+    "capacity_units_per_month":3502
   },
   {
     "supplier_id":"SUP649",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"ABC Technologies",
+    "country":"Japan",
+    "capacity_units_per_month":3052
   },
   {
     "supplier_id":"SUP650",
     "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "country":"USA",
+    "capacity_units_per_month":4348
   },
   {
     "supplier_id":"SUP651",
-    "supplier_name":"Sunrise Electronics",
-    "country":"UK"
+    "supplier_name":"Prime Materials",
+    "country":"Japan",
+    "capacity_units_per_month":1125
   },
   {
     "supplier_id":"SUP652",
-    "supplier_name":"Global Components",
-    "country":"USA"
+    "supplier_name":"Prime Materials",
+    "country":"Japan",
+    "capacity_units_per_month":2452
   },
   {
     "supplier_id":"SUP653",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Prime Materials",
+    "country":"UK",
+    "capacity_units_per_month":3196
   },
   {
     "supplier_id":"SUP654",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"Prime Materials",
+    "country":"India",
+    "capacity_units_per_month":2236
   },
   {
     "supplier_id":"SUP655",
-    "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "supplier_name":"Global Components",
+    "country":"Germany",
+    "capacity_units_per_month":1670
   },
   {
     "supplier_id":"SUP656",
-    "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "supplier_name":"Prime Materials",
+    "country":"UK",
+    "capacity_units_per_month":2657
   },
   {
     "supplier_id":"SUP657",
     "supplier_name":"Sunrise Electronics",
-    "country":"UK"
+    "country":"UK",
+    "capacity_units_per_month":1733
   },
   {
     "supplier_id":"SUP658",
-    "supplier_name":"Reliable Industries",
-    "country":"India"
+    "supplier_name":"Global Components",
+    "country":"Germany",
+    "capacity_units_per_month":4541
   },
   {
     "supplier_id":"SUP659",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"Prime Materials",
+    "country":"India",
+    "capacity_units_per_month":4330
   },
   {
     "supplier_id":"SUP660",
-    "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"USA",
+    "capacity_units_per_month":2041
   },
   {
     "supplier_id":"SUP661",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":2226
   },
   {
     "supplier_id":"SUP662",
-    "supplier_name":"Global Components",
-    "country":"Japan"
+    "supplier_name":"Prime Materials",
+    "country":"Germany",
+    "capacity_units_per_month":1275
   },
   {
     "supplier_id":"SUP663",
-    "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"Japan",
+    "capacity_units_per_month":4287
   },
   {
     "supplier_id":"SUP664",
-    "supplier_name":"Prime Materials",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"Germany",
+    "capacity_units_per_month":3106
   },
   {
     "supplier_id":"SUP665",
     "supplier_name":"Global Components",
-    "country":"Japan"
+    "country":"India",
+    "capacity_units_per_month":2581
   },
   {
     "supplier_id":"SUP666",
     "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "country":"India",
+    "capacity_units_per_month":1991
   },
   {
     "supplier_id":"SUP667",
-    "supplier_name":"Prime Materials",
-    "country":"UK"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":3547
   },
   {
     "supplier_id":"SUP668",
-    "supplier_name":"Prime Materials",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":2703
   },
   {
     "supplier_id":"SUP669",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Japan",
+    "capacity_units_per_month":4927
   },
   {
     "supplier_id":"SUP670",
-    "supplier_name":"Reliable Industries",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"Japan",
+    "capacity_units_per_month":843
   },
   {
     "supplier_id":"SUP671",
     "supplier_name":"Global Components",
-    "country":"Japan"
+    "country":"Germany",
+    "capacity_units_per_month":1202
   },
   {
     "supplier_id":"SUP672",
-    "supplier_name":"Global Components",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"Germany",
+    "capacity_units_per_month":4991
   },
   {
     "supplier_id":"SUP673",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":3177
   },
   {
     "supplier_id":"SUP674",
-    "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "supplier_name":"Prime Materials",
+    "country":"India",
+    "capacity_units_per_month":2016
   },
   {
     "supplier_id":"SUP675",
-    "supplier_name":"ABC Technologies",
-    "country":"Japan"
+    "supplier_name":"Prime Materials",
+    "country":"UK",
+    "capacity_units_per_month":3392
   },
   {
     "supplier_id":"SUP676",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"India",
+    "capacity_units_per_month":765
   },
   {
     "supplier_id":"SUP677",
-    "supplier_name":"Reliable Industries",
-    "country":"India"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":3801
   },
   {
     "supplier_id":"SUP678",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":2816
   },
   {
     "supplier_id":"SUP679",
-    "supplier_name":"Reliable Industries",
-    "country":"India"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":2265
   },
   {
     "supplier_id":"SUP680",
-    "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":2720
   },
   {
     "supplier_id":"SUP681",
-    "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"USA",
+    "capacity_units_per_month":1557
   },
   {
     "supplier_id":"SUP682",
-    "supplier_name":"Reliable Industries",
-    "country":"India"
+    "supplier_name":"Global Components",
+    "country":"UK",
+    "capacity_units_per_month":4733
   },
   {
     "supplier_id":"SUP683",
-    "supplier_name":"Sunrise Electronics",
-    "country":"UK"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":1630
   },
   {
     "supplier_id":"SUP684",
-    "supplier_name":"Prime Materials",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"USA",
+    "capacity_units_per_month":1653
   },
   {
     "supplier_id":"SUP685",
-    "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "supplier_name":"Prime Materials",
+    "country":"India",
+    "capacity_units_per_month":1116
   },
   {
     "supplier_id":"SUP686",
-    "supplier_name":"Prime Materials",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"USA",
+    "capacity_units_per_month":4847
   },
   {
     "supplier_id":"SUP687",
-    "supplier_name":"Prime Materials",
-    "country":"Japan"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":3227
   },
   {
     "supplier_id":"SUP688",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Germany",
+    "capacity_units_per_month":701
   },
   {
     "supplier_id":"SUP689",
     "supplier_name":"Reliable Industries",
-    "country":"India"
+    "country":"India",
+    "capacity_units_per_month":3950
   },
   {
     "supplier_id":"SUP690",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":3130
   },
   {
     "supplier_id":"SUP691",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"Japan",
+    "capacity_units_per_month":1788
   },
   {
     "supplier_id":"SUP692",
-    "supplier_name":"Global Components",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Germany",
+    "capacity_units_per_month":3408
   },
   {
     "supplier_id":"SUP693",
-    "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "supplier_name":"Prime Materials",
+    "country":"USA",
+    "capacity_units_per_month":4025
   },
   {
     "supplier_id":"SUP694",
-    "supplier_name":"Prime Materials",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"Germany",
+    "capacity_units_per_month":4102
   },
   {
     "supplier_id":"SUP695",
     "supplier_name":"Prime Materials",
-    "country":"USA"
+    "country":"UK",
+    "capacity_units_per_month":1726
   },
   {
     "supplier_id":"SUP696",
-    "supplier_name":"Global Components",
-    "country":"Germany"
+    "supplier_name":"Sunrise Electronics",
+    "country":"USA",
+    "capacity_units_per_month":1904
   },
   {
     "supplier_id":"SUP697",
-    "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Japan",
+    "capacity_units_per_month":3038
   },
   {
     "supplier_id":"SUP698",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Japan",
+    "capacity_units_per_month":4678
   },
   {
     "supplier_id":"SUP699",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"Prime Materials",
+    "country":"Japan",
+    "capacity_units_per_month":3762
   },
   {
     "supplier_id":"SUP700",
     "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "country":"Germany",
+    "capacity_units_per_month":1636
   },
   {
     "supplier_id":"SUP701",
-    "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "supplier_name":"Global Components",
+    "country":"Japan",
+    "capacity_units_per_month":2161
   },
   {
     "supplier_id":"SUP702",
-    "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"Germany",
+    "capacity_units_per_month":4115
   },
   {
     "supplier_id":"SUP703",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"Japan",
+    "capacity_units_per_month":764
   },
   {
     "supplier_id":"SUP704",
     "supplier_name":"Prime Materials",
-    "country":"USA"
+    "country":"India",
+    "capacity_units_per_month":3470
   },
   {
     "supplier_id":"SUP705",
-    "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"Japan",
+    "capacity_units_per_month":1566
   },
   {
     "supplier_id":"SUP706",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":4147
   },
   {
     "supplier_id":"SUP707",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":1244
   },
   {
     "supplier_id":"SUP708",
-    "supplier_name":"Global Components",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"USA",
+    "capacity_units_per_month":2675
   },
   {
     "supplier_id":"SUP709",
-    "supplier_name":"Prime Materials",
-    "country":"UK"
+    "supplier_name":"Reliable Industries",
+    "country":"India",
+    "capacity_units_per_month":1008
   },
   {
     "supplier_id":"SUP710",
-    "supplier_name":"Global Components",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Germany",
+    "capacity_units_per_month":2571
   },
   {
     "supplier_id":"SUP711",
     "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "country":"Japan",
+    "capacity_units_per_month":2732
   },
   {
     "supplier_id":"SUP712",
     "supplier_name":"Global Components",
-    "country":"USA"
+    "country":"India",
+    "capacity_units_per_month":3825
   },
   {
     "supplier_id":"SUP713",
-    "supplier_name":"Sunrise Electronics",
-    "country":"UK"
+    "supplier_name":"Prime Materials",
+    "country":"UK",
+    "capacity_units_per_month":3584
   },
   {
     "supplier_id":"SUP714",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"Prime Materials",
+    "country":"Japan",
+    "capacity_units_per_month":4488
   },
   {
     "supplier_id":"SUP715",
-    "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "supplier_name":"Global Components",
+    "country":"UK",
+    "capacity_units_per_month":1137
   },
   {
     "supplier_id":"SUP716",
-    "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"UK",
+    "capacity_units_per_month":4012
   },
   {
     "supplier_id":"SUP717",
-    "supplier_name":"Sunrise Electronics",
-    "country":"UK"
+    "supplier_name":"Prime Materials",
+    "country":"UK",
+    "capacity_units_per_month":3502
   },
   {
     "supplier_id":"SUP718",
-    "supplier_name":"Global Components",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"USA",
+    "capacity_units_per_month":4696
   },
   {
     "supplier_id":"SUP719",
     "supplier_name":"Prime Materials",
-    "country":"Germany"
+    "country":"UK",
+    "capacity_units_per_month":3785
   },
   {
     "supplier_id":"SUP720",
-    "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "supplier_name":"Prime Materials",
+    "country":"UK",
+    "capacity_units_per_month":2480
   },
   {
     "supplier_id":"SUP721",
-    "supplier_name":"Global Components",
-    "country":"Germany"
+    "supplier_name":"Prime Materials",
+    "country":"USA",
+    "capacity_units_per_month":670
   },
   {
     "supplier_id":"SUP722",
-    "supplier_name":"Global Components",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":2695
   },
   {
     "supplier_id":"SUP723",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"Global Components",
+    "country":"UK",
+    "capacity_units_per_month":2387
   },
   {
     "supplier_id":"SUP724",
     "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "country":"USA",
+    "capacity_units_per_month":1226
   },
   {
     "supplier_id":"SUP725",
-    "supplier_name":"Global Components",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"Japan",
+    "capacity_units_per_month":883
   },
   {
     "supplier_id":"SUP726",
-    "supplier_name":"Global Components",
-    "country":"Germany"
+    "supplier_name":"ABC Technologies",
+    "country":"India",
+    "capacity_units_per_month":4712
   },
   {
     "supplier_id":"SUP727",
-    "supplier_name":"Prime Materials",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":2510
   },
   {
     "supplier_id":"SUP728",
-    "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"UK",
+    "capacity_units_per_month":1878
   },
   {
     "supplier_id":"SUP729",
-    "supplier_name":"ABC Technologies",
-    "country":"India"
+    "supplier_name":"Sunrise Electronics",
+    "country":"USA",
+    "capacity_units_per_month":672
   },
   {
     "supplier_id":"SUP730",
     "supplier_name":"Global Components",
-    "country":"Germany"
+    "country":"USA",
+    "capacity_units_per_month":3796
   },
   {
     "supplier_id":"SUP731",
     "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "country":"UK",
+    "capacity_units_per_month":2185
   },
   {
     "supplier_id":"SUP732",
     "supplier_name":"Global Components",
-    "country":"India"
+    "country":"Germany",
+    "capacity_units_per_month":3560
   },
   {
     "supplier_id":"SUP733",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":4052
   },
   {
     "supplier_id":"SUP734",
-    "supplier_name":"Prime Materials",
-    "country":"India"
+    "supplier_name":"Global Components",
+    "country":"Japan",
+    "capacity_units_per_month":2624
   },
   {
     "supplier_id":"SUP735",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"Prime Materials",
+    "country":"Germany",
+    "capacity_units_per_month":1232
   },
   {
     "supplier_id":"SUP736",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"Prime Materials",
+    "country":"Germany",
+    "capacity_units_per_month":1974
   },
   {
     "supplier_id":"SUP737",
-    "supplier_name":"Prime Materials",
-    "country":"UK"
+    "supplier_name":"ABC Technologies",
+    "country":"USA",
+    "capacity_units_per_month":4877
   },
   {
     "supplier_id":"SUP738",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"Germany",
+    "capacity_units_per_month":1118
   },
   {
     "supplier_id":"SUP739",
-    "supplier_name":"Reliable Industries",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"India",
+    "capacity_units_per_month":4047
   },
   {
     "supplier_id":"SUP740",
-    "supplier_name":"ABC Technologies",
-    "country":"India"
+    "supplier_name":"Prime Materials",
+    "country":"India",
+    "capacity_units_per_month":3885
   },
   {
     "supplier_id":"SUP741",
-    "supplier_name":"Prime Materials",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"India",
+    "capacity_units_per_month":1326
   },
   {
     "supplier_id":"SUP742",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"India",
+    "capacity_units_per_month":704
   },
   {
     "supplier_id":"SUP743",
-    "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "supplier_name":"ABC Technologies",
+    "country":"India",
+    "capacity_units_per_month":554
   },
   {
     "supplier_id":"SUP744",
-    "supplier_name":"Prime Materials",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":1497
   },
   {
     "supplier_id":"SUP745",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "supplier_name":"ABC Technologies",
+    "country":"USA",
+    "capacity_units_per_month":801
   },
   {
     "supplier_id":"SUP746",
-    "supplier_name":"Global Components",
-    "country":"UK"
+    "supplier_name":"ABC Technologies",
+    "country":"India",
+    "capacity_units_per_month":3817
   },
   {
     "supplier_id":"SUP747",
-    "supplier_name":"Global Components",
-    "country":"Japan"
+    "supplier_name":"Prime Materials",
+    "country":"Japan",
+    "capacity_units_per_month":1808
   },
   {
     "supplier_id":"SUP748",
-    "supplier_name":"Prime Materials",
-    "country":"Japan"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":2564
   },
   {
     "supplier_id":"SUP749",
-    "supplier_name":"Global Components",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":967
   },
   {
     "supplier_id":"SUP750",
-    "supplier_name":"Prime Materials",
-    "country":"India"
+    "supplier_name":"Reliable Industries",
+    "country":"Japan",
+    "capacity_units_per_month":3737
   },
   {
     "supplier_id":"SUP751",
     "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "country":"UK",
+    "capacity_units_per_month":4447
   },
   {
     "supplier_id":"SUP752",
-    "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "supplier_name":"Global Components",
+    "country":"Japan",
+    "capacity_units_per_month":3041
   },
   {
     "supplier_id":"SUP753",
-    "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "supplier_name":"Sunrise Electronics",
+    "country":"UK",
+    "capacity_units_per_month":1296
   },
   {
     "supplier_id":"SUP754",
-    "supplier_name":"ABC Technologies",
-    "country":"India"
+    "supplier_name":"Prime Materials",
+    "country":"Japan",
+    "capacity_units_per_month":4211
   },
   {
     "supplier_id":"SUP755",
-    "supplier_name":"Prime Materials",
-    "country":"UK"
+    "supplier_name":"ABC Technologies",
+    "country":"Japan",
+    "capacity_units_per_month":3836
   },
   {
     "supplier_id":"SUP756",
-    "supplier_name":"Prime Materials",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"Japan",
+    "capacity_units_per_month":779
   },
   {
     "supplier_id":"SUP757",
     "supplier_name":"Global Components",
-    "country":"India"
+    "country":"UK",
+    "capacity_units_per_month":4470
   },
   {
     "supplier_id":"SUP758",
-    "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "supplier_name":"Global Components",
+    "country":"Germany",
+    "capacity_units_per_month":1550
   },
   {
     "supplier_id":"SUP759",
     "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "country":"Japan",
+    "capacity_units_per_month":715
   },
   {
     "supplier_id":"SUP760",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"Prime Materials",
+    "country":"Japan",
+    "capacity_units_per_month":886
   },
   {
     "supplier_id":"SUP761",
-    "supplier_name":"Prime Materials",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"UK",
+    "capacity_units_per_month":4404
   },
   {
     "supplier_id":"SUP762",
-    "supplier_name":"ABC Technologies",
-    "country":"India"
+    "supplier_name":"Reliable Industries",
+    "country":"Germany",
+    "capacity_units_per_month":1568
   },
   {
     "supplier_id":"SUP763",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"UK",
+    "capacity_units_per_month":4321
   },
   {
     "supplier_id":"SUP764",
     "supplier_name":"Prime Materials",
-    "country":"India"
+    "country":"India",
+    "capacity_units_per_month":1874
   },
   {
     "supplier_id":"SUP765",
-    "supplier_name":"Global Components",
-    "country":"UK"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":581
   },
   {
     "supplier_id":"SUP766",
     "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "country":"USA",
+    "capacity_units_per_month":1576
   },
   {
     "supplier_id":"SUP767",
-    "supplier_name":"Prime Materials",
-    "country":"UK"
+    "supplier_name":"ABC Technologies",
+    "country":"USA",
+    "capacity_units_per_month":2646
   },
   {
     "supplier_id":"SUP768",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"Global Components",
+    "country":"Germany",
+    "capacity_units_per_month":4957
   },
   {
     "supplier_id":"SUP769",
-    "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":4773
   },
   {
     "supplier_id":"SUP770",
     "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "country":"Germany",
+    "capacity_units_per_month":3034
   },
   {
     "supplier_id":"SUP771",
-    "supplier_name":"Sunrise Electronics",
-    "country":"UK"
+    "supplier_name":"Prime Materials",
+    "country":"Japan",
+    "capacity_units_per_month":2533
   },
   {
     "supplier_id":"SUP772",
-    "supplier_name":"Global Components",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"Japan",
+    "capacity_units_per_month":3307
   },
   {
     "supplier_id":"SUP773",
-    "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "supplier_name":"ABC Technologies",
+    "country":"USA",
+    "capacity_units_per_month":4545
   },
   {
     "supplier_id":"SUP774",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":3509
   },
   {
     "supplier_id":"SUP775",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":2418
   },
   {
     "supplier_id":"SUP776",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"Prime Materials",
+    "country":"Germany",
+    "capacity_units_per_month":3611
   },
   {
     "supplier_id":"SUP777",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":2470
   },
   {
     "supplier_id":"SUP778",
-    "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":1387
   },
   {
     "supplier_id":"SUP779",
-    "supplier_name":"Prime Materials",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":4512
   },
   {
     "supplier_id":"SUP780",
-    "supplier_name":"Global Components",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":3489
   },
   {
     "supplier_id":"SUP781",
-    "supplier_name":"Prime Materials",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"Japan",
+    "capacity_units_per_month":2488
   },
   {
     "supplier_id":"SUP782",
-    "supplier_name":"Global Components",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":3949
   },
   {
     "supplier_id":"SUP783",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"India",
+    "capacity_units_per_month":3999
   },
   {
     "supplier_id":"SUP784",
     "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "country":"UK",
+    "capacity_units_per_month":4769
   },
   {
     "supplier_id":"SUP785",
     "supplier_name":"ABC Technologies",
-    "country":"Japan"
+    "country":"USA",
+    "capacity_units_per_month":1322
   },
   {
     "supplier_id":"SUP786",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"USA",
+    "capacity_units_per_month":3389
   },
   {
     "supplier_id":"SUP787",
-    "supplier_name":"Reliable Industries",
-    "country":"India"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Japan",
+    "capacity_units_per_month":4434
   },
   {
     "supplier_id":"SUP788",
-    "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"USA",
+    "capacity_units_per_month":1602
   },
   {
     "supplier_id":"SUP789",
-    "supplier_name":"Global Components",
-    "country":"Germany"
+    "supplier_name":"ABC Technologies",
+    "country":"Japan",
+    "capacity_units_per_month":3053
   },
   {
     "supplier_id":"SUP790",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "supplier_name":"Prime Materials",
+    "country":"USA",
+    "capacity_units_per_month":3992
   },
   {
     "supplier_id":"SUP791",
-    "supplier_name":"ABC Technologies",
-    "country":"Japan"
+    "supplier_name":"Prime Materials",
+    "country":"UK",
+    "capacity_units_per_month":4788
   },
   {
     "supplier_id":"SUP792",
-    "supplier_name":"Prime Materials",
-    "country":"India"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":3889
   },
   {
     "supplier_id":"SUP793",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "supplier_name":"Global Components",
+    "country":"UK",
+    "capacity_units_per_month":3363
   },
   {
     "supplier_id":"SUP794",
-    "supplier_name":"ABC Technologies",
-    "country":"Japan"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":3382
   },
   {
     "supplier_id":"SUP795",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"Japan",
+    "capacity_units_per_month":1009
   },
   {
     "supplier_id":"SUP796",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":531
   },
   {
     "supplier_id":"SUP797",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"Prime Materials",
+    "country":"USA",
+    "capacity_units_per_month":2748
   },
   {
     "supplier_id":"SUP798",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "supplier_name":"Global Components",
+    "country":"Japan",
+    "capacity_units_per_month":4201
   },
   {
     "supplier_id":"SUP799",
-    "supplier_name":"Reliable Industries",
-    "country":"India"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":630
   },
   {
     "supplier_id":"SUP800",
-    "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":2782
   },
   {
     "supplier_id":"SUP801",
-    "supplier_name":"Global Components",
-    "country":"UK"
+    "supplier_name":"ABC Technologies",
+    "country":"USA",
+    "capacity_units_per_month":2326
   },
   {
     "supplier_id":"SUP802",
     "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "country":"India",
+    "capacity_units_per_month":4285
   },
   {
     "supplier_id":"SUP803",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":2665
   },
   {
     "supplier_id":"SUP804",
-    "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "supplier_name":"Prime Materials",
+    "country":"Japan",
+    "capacity_units_per_month":2509
   },
   {
     "supplier_id":"SUP805",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"Global Components",
+    "country":"Germany",
+    "capacity_units_per_month":1658
   },
   {
     "supplier_id":"SUP806",
     "supplier_name":"Reliable Industries",
-    "country":"India"
+    "country":"UK",
+    "capacity_units_per_month":3274
   },
   {
     "supplier_id":"SUP807",
-    "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"India",
+    "capacity_units_per_month":1260
   },
   {
     "supplier_id":"SUP808",
     "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "country":"UK",
+    "capacity_units_per_month":3606
   },
   {
     "supplier_id":"SUP809",
-    "supplier_name":"Global Components",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"India",
+    "capacity_units_per_month":1461
   },
   {
     "supplier_id":"SUP810",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "supplier_name":"Global Components",
+    "country":"Japan",
+    "capacity_units_per_month":4120
   },
   {
     "supplier_id":"SUP811",
-    "supplier_name":"Reliable Industries",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":1002
   },
   {
     "supplier_id":"SUP812",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "supplier_name":"Global Components",
+    "country":"UK",
+    "capacity_units_per_month":3768
   },
   {
     "supplier_id":"SUP813",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"Prime Materials",
+    "country":"UK",
+    "capacity_units_per_month":588
   },
   {
     "supplier_id":"SUP814",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":4252
   },
   {
     "supplier_id":"SUP815",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"Reliable Industries",
+    "country":"India",
+    "capacity_units_per_month":1527
   },
   {
     "supplier_id":"SUP816",
     "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "country":"India",
+    "capacity_units_per_month":4019
   },
   {
     "supplier_id":"SUP817",
     "supplier_name":"Global Components",
-    "country":"USA"
+    "country":"Germany",
+    "capacity_units_per_month":4393
   },
   {
     "supplier_id":"SUP818",
-    "supplier_name":"Sunrise Electronics",
-    "country":"UK"
+    "supplier_name":"ABC Technologies",
+    "country":"India",
+    "capacity_units_per_month":1776
   },
   {
     "supplier_id":"SUP819",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "supplier_name":"Reliable Industries",
+    "country":"India",
+    "capacity_units_per_month":2873
   },
   {
     "supplier_id":"SUP820",
-    "supplier_name":"Global Components",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"Germany",
+    "capacity_units_per_month":4438
   },
   {
     "supplier_id":"SUP821",
-    "supplier_name":"ABC Technologies",
-    "country":"Japan"
+    "supplier_name":"Reliable Industries",
+    "country":"Germany",
+    "capacity_units_per_month":3053
   },
   {
     "supplier_id":"SUP822",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "supplier_name":"Reliable Industries",
+    "country":"Germany",
+    "capacity_units_per_month":4455
   },
   {
     "supplier_id":"SUP823",
     "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "country":"USA",
+    "capacity_units_per_month":2524
   },
   {
     "supplier_id":"SUP824",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"USA",
+    "capacity_units_per_month":4283
   },
   {
     "supplier_id":"SUP825",
-    "supplier_name":"Global Components",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"India",
+    "capacity_units_per_month":1595
   },
   {
     "supplier_id":"SUP826",
-    "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "supplier_name":"Global Components",
+    "country":"UK",
+    "capacity_units_per_month":1622
   },
   {
     "supplier_id":"SUP827",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":4562
   },
   {
     "supplier_id":"SUP828",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"Global Components",
+    "country":"Japan",
+    "capacity_units_per_month":4068
   },
   {
     "supplier_id":"SUP829",
-    "supplier_name":"Prime Materials",
-    "country":"UK"
+    "supplier_name":"Reliable Industries",
+    "country":"India",
+    "capacity_units_per_month":4289
   },
   {
     "supplier_id":"SUP830",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":4514
   },
   {
     "supplier_id":"SUP831",
-    "supplier_name":"Prime Materials",
-    "country":"Japan"
+    "supplier_name":"Global Components",
+    "country":"Japan",
+    "capacity_units_per_month":2092
   },
   {
     "supplier_id":"SUP832",
     "supplier_name":"Sunrise Electronics",
-    "country":"UK"
+    "country":"India",
+    "capacity_units_per_month":3729
   },
   {
     "supplier_id":"SUP833",
-    "supplier_name":"Global Components",
-    "country":"Japan"
+    "supplier_name":"Reliable Industries",
+    "country":"Japan",
+    "capacity_units_per_month":3132
   },
   {
     "supplier_id":"SUP834",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":4170
   },
   {
     "supplier_id":"SUP835",
-    "supplier_name":"Prime Materials",
-    "country":"Germany"
+    "supplier_name":"ABC Technologies",
+    "country":"Germany",
+    "capacity_units_per_month":2474
   },
   {
     "supplier_id":"SUP836",
     "supplier_name":"Reliable Industries",
-    "country":"India"
+    "country":"UK",
+    "capacity_units_per_month":2992
   },
   {
     "supplier_id":"SUP837",
-    "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"UK",
+    "capacity_units_per_month":2373
   },
   {
     "supplier_id":"SUP838",
     "supplier_name":"Prime Materials",
-    "country":"USA"
+    "country":"Germany",
+    "capacity_units_per_month":3252
   },
   {
     "supplier_id":"SUP839",
     "supplier_name":"Global Components",
-    "country":"UK"
+    "country":"USA",
+    "capacity_units_per_month":4664
   },
   {
     "supplier_id":"SUP840",
-    "supplier_name":"Prime Materials",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"Japan",
+    "capacity_units_per_month":1602
   },
   {
     "supplier_id":"SUP841",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":1325
   },
   {
     "supplier_id":"SUP842",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":2761
   },
   {
     "supplier_id":"SUP843",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"Reliable Industries",
+    "country":"Germany",
+    "capacity_units_per_month":3393
   },
   {
     "supplier_id":"SUP844",
-    "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "supplier_name":"Global Components",
+    "country":"Japan",
+    "capacity_units_per_month":4545
   },
   {
     "supplier_id":"SUP845",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "supplier_name":"Global Components",
+    "country":"Japan",
+    "capacity_units_per_month":1108
   },
   {
     "supplier_id":"SUP846",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"Japan",
+    "capacity_units_per_month":2945
   },
   {
     "supplier_id":"SUP847",
     "supplier_name":"Prime Materials",
-    "country":"UK"
+    "country":"UK",
+    "capacity_units_per_month":1115
   },
   {
     "supplier_id":"SUP848",
-    "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "supplier_name":"Sunrise Electronics",
+    "country":"USA",
+    "capacity_units_per_month":873
   },
   {
     "supplier_id":"SUP849",
     "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "country":"USA",
+    "capacity_units_per_month":949
   },
   {
     "supplier_id":"SUP850",
-    "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"Japan",
+    "capacity_units_per_month":4185
   },
   {
     "supplier_id":"SUP851",
     "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "country":"Japan",
+    "capacity_units_per_month":3358
   },
   {
     "supplier_id":"SUP852",
-    "supplier_name":"Prime Materials",
-    "country":"UK"
+    "supplier_name":"ABC Technologies",
+    "country":"Japan",
+    "capacity_units_per_month":4149
   },
   {
     "supplier_id":"SUP853",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"Germany",
+    "capacity_units_per_month":2733
   },
   {
     "supplier_id":"SUP854",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Prime Materials",
+    "country":"UK",
+    "capacity_units_per_month":4838
   },
   {
     "supplier_id":"SUP855",
-    "supplier_name":"Global Components",
-    "country":"UK"
+    "supplier_name":"ABC Technologies",
+    "country":"Japan",
+    "capacity_units_per_month":2450
   },
   {
     "supplier_id":"SUP856",
-    "supplier_name":"Prime Materials",
-    "country":"Japan"
+    "supplier_name":"Global Components",
+    "country":"UK",
+    "capacity_units_per_month":2479
   },
   {
     "supplier_id":"SUP857",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"Prime Materials",
+    "country":"USA",
+    "capacity_units_per_month":4664
   },
   {
     "supplier_id":"SUP858",
-    "supplier_name":"Global Components",
-    "country":"Japan"
+    "supplier_name":"Reliable Industries",
+    "country":"Germany",
+    "capacity_units_per_month":707
   },
   {
     "supplier_id":"SUP859",
-    "supplier_name":"Prime Materials",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"UK",
+    "capacity_units_per_month":1895
   },
   {
     "supplier_id":"SUP860",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "supplier_name":"ABC Technologies",
+    "country":"Japan",
+    "capacity_units_per_month":3026
   },
   {
     "supplier_id":"SUP861",
-    "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "supplier_name":"Prime Materials",
+    "country":"India",
+    "capacity_units_per_month":4087
   },
   {
     "supplier_id":"SUP862",
-    "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"USA",
+    "capacity_units_per_month":1572
   },
   {
     "supplier_id":"SUP863",
-    "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"USA",
+    "capacity_units_per_month":4009
   },
   {
     "supplier_id":"SUP864",
-    "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "supplier_name":"Prime Materials",
+    "country":"Japan",
+    "capacity_units_per_month":2270
   },
   {
     "supplier_id":"SUP865",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"Reliable Industries",
+    "country":"Germany",
+    "capacity_units_per_month":2568
   },
   {
     "supplier_id":"SUP866",
-    "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "supplier_name":"Prime Materials",
+    "country":"India",
+    "capacity_units_per_month":3037
   },
   {
     "supplier_id":"SUP867",
     "supplier_name":"Global Components",
-    "country":"India"
+    "country":"India",
+    "capacity_units_per_month":2568
   },
   {
     "supplier_id":"SUP868",
     "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "country":"Japan",
+    "capacity_units_per_month":1452
   },
   {
     "supplier_id":"SUP869",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":2711
   },
   {
     "supplier_id":"SUP870",
-    "supplier_name":"Prime Materials",
-    "country":"Germany"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":1624
   },
   {
     "supplier_id":"SUP871",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"India",
+    "capacity_units_per_month":3259
   },
   {
     "supplier_id":"SUP872",
-    "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "supplier_name":"Prime Materials",
+    "country":"Germany",
+    "capacity_units_per_month":2790
   },
   {
     "supplier_id":"SUP873",
     "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "country":"India",
+    "capacity_units_per_month":2858
   },
   {
     "supplier_id":"SUP874",
-    "supplier_name":"Global Components",
-    "country":"Germany"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":1057
   },
   {
     "supplier_id":"SUP875",
     "supplier_name":"Global Components",
-    "country":"India"
+    "country":"Japan",
+    "capacity_units_per_month":3462
   },
   {
     "supplier_id":"SUP876",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Japan",
+    "capacity_units_per_month":3101
   },
   {
     "supplier_id":"SUP877",
-    "supplier_name":"ABC Technologies",
-    "country":"Japan"
+    "supplier_name":"Reliable Industries",
+    "country":"India",
+    "capacity_units_per_month":2324
   },
   {
     "supplier_id":"SUP878",
     "supplier_name":"Prime Materials",
-    "country":"Germany"
+    "country":"Japan",
+    "capacity_units_per_month":1643
   },
   {
     "supplier_id":"SUP879",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "supplier_name":"Reliable Industries",
+    "country":"Germany",
+    "capacity_units_per_month":877
   },
   {
     "supplier_id":"SUP880",
-    "supplier_name":"ABC Technologies",
-    "country":"Japan"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Germany",
+    "capacity_units_per_month":2362
   },
   {
     "supplier_id":"SUP881",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"Japan",
+    "capacity_units_per_month":3055
   },
   {
     "supplier_id":"SUP882",
-    "supplier_name":"ABC Technologies",
-    "country":"India"
+    "supplier_name":"Reliable Industries",
+    "country":"USA",
+    "capacity_units_per_month":4605
   },
   {
     "supplier_id":"SUP883",
     "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "country":"Japan",
+    "capacity_units_per_month":1831
   },
   {
     "supplier_id":"SUP884",
-    "supplier_name":"Prime Materials",
-    "country":"India"
+    "supplier_name":"Global Components",
+    "country":"Japan",
+    "capacity_units_per_month":4054
   },
   {
     "supplier_id":"SUP885",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":1383
   },
   {
     "supplier_id":"SUP886",
     "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "country":"India",
+    "capacity_units_per_month":3910
   },
   {
     "supplier_id":"SUP887",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"Sunrise Electronics",
+    "country":"USA",
+    "capacity_units_per_month":4103
   },
   {
     "supplier_id":"SUP888",
-    "supplier_name":"Sunrise Electronics",
-    "country":"UK"
+    "supplier_name":"Prime Materials",
+    "country":"Japan",
+    "capacity_units_per_month":2584
   },
   {
     "supplier_id":"SUP889",
-    "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"USA",
+    "capacity_units_per_month":1124
   },
   {
     "supplier_id":"SUP890",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":4708
   },
   {
     "supplier_id":"SUP891",
     "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "country":"India",
+    "capacity_units_per_month":3439
   },
   {
     "supplier_id":"SUP892",
-    "supplier_name":"Sunrise Electronics",
-    "country":"UK"
+    "supplier_name":"Prime Materials",
+    "country":"India",
+    "capacity_units_per_month":2148
   },
   {
     "supplier_id":"SUP893",
-    "supplier_name":"Global Components",
-    "country":"Germany"
+    "supplier_name":"Prime Materials",
+    "country":"Japan",
+    "capacity_units_per_month":3329
   },
   {
     "supplier_id":"SUP894",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"Japan",
+    "capacity_units_per_month":3980
   },
   {
     "supplier_id":"SUP895",
-    "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":4079
   },
   {
     "supplier_id":"SUP896",
-    "supplier_name":"ABC Technologies",
-    "country":"India"
+    "supplier_name":"Prime Materials",
+    "country":"Japan",
+    "capacity_units_per_month":3053
   },
   {
     "supplier_id":"SUP897",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "supplier_name":"Prime Materials",
+    "country":"USA",
+    "capacity_units_per_month":3321
   },
   {
     "supplier_id":"SUP898",
     "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "country":"India",
+    "capacity_units_per_month":2900
   },
   {
     "supplier_id":"SUP899",
-    "supplier_name":"Prime Materials",
-    "country":"Germany"
+    "supplier_name":"ABC Technologies",
+    "country":"Japan",
+    "capacity_units_per_month":3444
   },
   {
     "supplier_id":"SUP900",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Germany",
+    "capacity_units_per_month":1825
   },
   {
     "supplier_id":"SUP901",
-    "supplier_name":"Sunrise Electronics",
-    "country":"UK"
+    "supplier_name":"Prime Materials",
+    "country":"India",
+    "capacity_units_per_month":4653
   },
   {
     "supplier_id":"SUP902",
     "supplier_name":"ABC Technologies",
-    "country":"Japan"
+    "country":"USA",
+    "capacity_units_per_month":3020
   },
   {
     "supplier_id":"SUP903",
-    "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":2525
   },
   {
     "supplier_id":"SUP904",
-    "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Japan",
+    "capacity_units_per_month":2954
   },
   {
     "supplier_id":"SUP905",
-    "supplier_name":"ABC Technologies",
-    "country":"Japan"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Japan",
+    "capacity_units_per_month":4796
   },
   {
     "supplier_id":"SUP906",
-    "supplier_name":"Prime Materials",
-    "country":"India"
+    "supplier_name":"Sunrise Electronics",
+    "country":"USA",
+    "capacity_units_per_month":2796
   },
   {
     "supplier_id":"SUP907",
     "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "country":"Germany",
+    "capacity_units_per_month":752
   },
   {
     "supplier_id":"SUP908",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":676
   },
   {
     "supplier_id":"SUP909",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"Prime Materials",
+    "country":"UK",
+    "capacity_units_per_month":2227
   },
   {
     "supplier_id":"SUP910",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"India",
+    "capacity_units_per_month":2008
   },
   {
     "supplier_id":"SUP911",
     "supplier_name":"Global Components",
-    "country":"Germany"
+    "country":"UK",
+    "capacity_units_per_month":2686
   },
   {
     "supplier_id":"SUP912",
-    "supplier_name":"Global Components",
-    "country":"Germany"
+    "supplier_name":"Sunrise Electronics",
+    "country":"USA",
+    "capacity_units_per_month":923
   },
   {
     "supplier_id":"SUP913",
     "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "country":"UK",
+    "capacity_units_per_month":1446
   },
   {
     "supplier_id":"SUP914",
-    "supplier_name":"Global Components",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":3629
   },
   {
     "supplier_id":"SUP915",
-    "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"India",
+    "capacity_units_per_month":4950
   },
   {
     "supplier_id":"SUP916",
-    "supplier_name":"Prime Materials",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"USA",
+    "capacity_units_per_month":1065
   },
   {
     "supplier_id":"SUP917",
-    "supplier_name":"Prime Materials",
-    "country":"India"
+    "supplier_name":"Reliable Industries",
+    "country":"India",
+    "capacity_units_per_month":3878
   },
   {
     "supplier_id":"SUP918",
     "supplier_name":"ABC Technologies",
-    "country":"India"
+    "country":"Germany",
+    "capacity_units_per_month":2951
   },
   {
     "supplier_id":"SUP919",
     "supplier_name":"Global Components",
-    "country":"Germany"
+    "country":"Germany",
+    "capacity_units_per_month":3770
   },
   {
     "supplier_id":"SUP920",
-    "supplier_name":"Global Components",
-    "country":"UK"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Germany",
+    "capacity_units_per_month":1769
   },
   {
     "supplier_id":"SUP921",
-    "supplier_name":"Reliable Industries",
-    "country":"India"
+    "supplier_name":"Prime Materials",
+    "country":"India",
+    "capacity_units_per_month":2544
   },
   {
     "supplier_id":"SUP922",
-    "supplier_name":"Global Components",
-    "country":"Japan"
+    "supplier_name":"Prime Materials",
+    "country":"India",
+    "capacity_units_per_month":1074
   },
   {
     "supplier_id":"SUP923",
-    "supplier_name":"Global Components",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"USA",
+    "capacity_units_per_month":2645
   },
   {
     "supplier_id":"SUP924",
     "supplier_name":"Prime Materials",
-    "country":"India"
+    "country":"Germany",
+    "capacity_units_per_month":4609
   },
   {
     "supplier_id":"SUP925",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":4514
   },
   {
     "supplier_id":"SUP926",
-    "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"India",
+    "capacity_units_per_month":3028
   },
   {
     "supplier_id":"SUP927",
     "supplier_name":"Prime Materials",
-    "country":"Japan"
+    "country":"Germany",
+    "capacity_units_per_month":3588
   },
   {
     "supplier_id":"SUP928",
-    "supplier_name":"Global Components",
-    "country":"UK"
+    "supplier_name":"Prime Materials",
+    "country":"UK",
+    "capacity_units_per_month":2997
   },
   {
     "supplier_id":"SUP929",
-    "supplier_name":"Prime Materials",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"India",
+    "capacity_units_per_month":3878
   },
   {
     "supplier_id":"SUP930",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"Reliable Industries",
+    "country":"Japan",
+    "capacity_units_per_month":4640
   },
   {
     "supplier_id":"SUP931",
-    "supplier_name":"Reliable Industries",
-    "country":"UK"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":730
   },
   {
     "supplier_id":"SUP932",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "supplier_name":"Global Components",
+    "country":"Japan",
+    "capacity_units_per_month":3528
   },
   {
     "supplier_id":"SUP933",
-    "supplier_name":"Prime Materials",
-    "country":"India"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Japan",
+    "capacity_units_per_month":3961
   },
   {
     "supplier_id":"SUP934",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Prime Materials",
+    "country":"UK",
+    "capacity_units_per_month":2738
   },
   {
     "supplier_id":"SUP935",
     "supplier_name":"Global Components",
-    "country":"UK"
+    "country":"Germany",
+    "capacity_units_per_month":3230
   },
   {
     "supplier_id":"SUP936",
     "supplier_name":"ABC Technologies",
-    "country":"Japan"
+    "country":"Germany",
+    "capacity_units_per_month":4846
   },
   {
     "supplier_id":"SUP937",
-    "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "supplier_name":"ABC Technologies",
+    "country":"USA",
+    "capacity_units_per_month":942
   },
   {
     "supplier_id":"SUP938",
-    "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "supplier_name":"Prime Materials",
+    "country":"Japan",
+    "capacity_units_per_month":967
   },
   {
     "supplier_id":"SUP939",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":580
   },
   {
     "supplier_id":"SUP940",
-    "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "supplier_name":"Global Components",
+    "country":"USA",
+    "capacity_units_per_month":3169
   },
   {
     "supplier_id":"SUP941",
-    "supplier_name":"Global Components",
-    "country":"Germany"
+    "supplier_name":"Prime Materials",
+    "country":"India",
+    "capacity_units_per_month":3070
   },
   {
     "supplier_id":"SUP942",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"UK",
+    "capacity_units_per_month":3770
   },
   {
     "supplier_id":"SUP943",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"Germany",
+    "capacity_units_per_month":620
   },
   {
     "supplier_id":"SUP944",
-    "supplier_name":"Prime Materials",
-    "country":"Japan"
+    "supplier_name":"Reliable Industries",
+    "country":"India",
+    "capacity_units_per_month":2211
   },
   {
     "supplier_id":"SUP945",
-    "supplier_name":"Prime Materials",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":1375
   },
   {
     "supplier_id":"SUP946",
-    "supplier_name":"Sunrise Electronics",
-    "country":"India"
+    "supplier_name":"Prime Materials",
+    "country":"Germany",
+    "capacity_units_per_month":4433
   },
   {
     "supplier_id":"SUP947",
-    "supplier_name":"Prime Materials",
-    "country":"Germany"
+    "supplier_name":"ABC Technologies",
+    "country":"India",
+    "capacity_units_per_month":3447
   },
   {
     "supplier_id":"SUP948",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":2617
   },
   {
     "supplier_id":"SUP949",
     "supplier_name":"Global Components",
-    "country":"Germany"
+    "country":"Japan",
+    "capacity_units_per_month":1160
   },
   {
     "supplier_id":"SUP950",
-    "supplier_name":"Prime Materials",
-    "country":"Germany"
+    "supplier_name":"ABC Technologies",
+    "country":"USA",
+    "capacity_units_per_month":4641
   },
   {
     "supplier_id":"SUP951",
-    "supplier_name":"ABC Technologies",
-    "country":"Japan"
+    "supplier_name":"Reliable Industries",
+    "country":"Germany",
+    "capacity_units_per_month":4932
   },
   {
     "supplier_id":"SUP952",
     "supplier_name":"Global Components",
-    "country":"Germany"
+    "country":"Germany",
+    "capacity_units_per_month":3402
   },
   {
     "supplier_id":"SUP953",
-    "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "supplier_name":"Global Components",
+    "country":"UK",
+    "capacity_units_per_month":2371
   },
   {
     "supplier_id":"SUP954",
-    "supplier_name":"Prime Materials",
-    "country":"Germany"
+    "supplier_name":"Global Components",
+    "country":"Japan",
+    "capacity_units_per_month":4468
   },
   {
     "supplier_id":"SUP955",
-    "supplier_name":"Reliable Industries",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":1905
   },
   {
     "supplier_id":"SUP956",
     "supplier_name":"ABC Technologies",
-    "country":"Japan"
+    "country":"Japan",
+    "capacity_units_per_month":2821
   },
   {
     "supplier_id":"SUP957",
-    "supplier_name":"Reliable Industries",
-    "country":"USA"
+    "supplier_name":"Prime Materials",
+    "country":"Japan",
+    "capacity_units_per_month":814
   },
   {
     "supplier_id":"SUP958",
-    "supplier_name":"Prime Materials",
-    "country":"Germany"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":2382
   },
   {
     "supplier_id":"SUP959",
-    "supplier_name":"Reliable Industries",
-    "country":"India"
+    "supplier_name":"ABC Technologies",
+    "country":"Germany",
+    "capacity_units_per_month":1763
   },
   {
     "supplier_id":"SUP960",
-    "supplier_name":"ABC Technologies",
-    "country":"Japan"
+    "supplier_name":"Prime Materials",
+    "country":"UK",
+    "capacity_units_per_month":4150
   },
   {
     "supplier_id":"SUP961",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "supplier_name":"Reliable Industries",
+    "country":"Japan",
+    "capacity_units_per_month":2323
   },
   {
     "supplier_id":"SUP962",
     "supplier_name":"ABC Technologies",
-    "country":"Japan"
+    "country":"India",
+    "capacity_units_per_month":1803
   },
   {
     "supplier_id":"SUP963",
-    "supplier_name":"Global Components",
-    "country":"UK"
+    "supplier_name":"Prime Materials",
+    "country":"Germany",
+    "capacity_units_per_month":1142
   },
   {
     "supplier_id":"SUP964",
     "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "country":"Japan",
+    "capacity_units_per_month":3206
   },
   {
     "supplier_id":"SUP965",
-    "supplier_name":"Sunrise Electronics",
-    "country":"UK"
+    "supplier_name":"Global Components",
+    "country":"Germany",
+    "capacity_units_per_month":1831
   },
   {
     "supplier_id":"SUP966",
     "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "country":"USA",
+    "capacity_units_per_month":1474
   },
   {
     "supplier_id":"SUP967",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":2156
   },
   {
     "supplier_id":"SUP968",
-    "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":2885
   },
   {
     "supplier_id":"SUP969",
-    "supplier_name":"ABC Technologies",
-    "country":"Japan"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":1276
   },
   {
     "supplier_id":"SUP970",
     "supplier_name":"Global Components",
-    "country":"USA"
+    "country":"Japan",
+    "capacity_units_per_month":2371
   },
   {
     "supplier_id":"SUP971",
-    "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "supplier_name":"Global Components",
+    "country":"Japan",
+    "capacity_units_per_month":4494
   },
   {
     "supplier_id":"SUP972",
-    "supplier_name":"Sunrise Electronics",
-    "country":"UK"
+    "supplier_name":"Reliable Industries",
+    "country":"India",
+    "capacity_units_per_month":991
   },
   {
     "supplier_id":"SUP973",
-    "supplier_name":"Global Components",
-    "country":"Germany"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":4923
   },
   {
     "supplier_id":"SUP974",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"Japan",
+    "capacity_units_per_month":3953
   },
   {
     "supplier_id":"SUP975",
-    "supplier_name":"Prime Materials",
-    "country":"India"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":2913
   },
   {
     "supplier_id":"SUP976",
-    "supplier_name":"Reliable Industries",
-    "country":"India"
+    "supplier_name":"Sunrise Electronics",
+    "country":"USA",
+    "capacity_units_per_month":1520
   },
   {
     "supplier_id":"SUP977",
     "supplier_name":"Prime Materials",
-    "country":"India"
+    "country":"Japan",
+    "capacity_units_per_month":1218
   },
   {
     "supplier_id":"SUP978",
-    "supplier_name":"Reliable Industries",
-    "country":"India"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Japan",
+    "capacity_units_per_month":3749
   },
   {
     "supplier_id":"SUP979",
-    "supplier_name":"ABC Technologies",
-    "country":"USA"
+    "supplier_name":"Prime Materials",
+    "country":"Japan",
+    "capacity_units_per_month":2092
   },
   {
     "supplier_id":"SUP980",
-    "supplier_name":"Global Components",
-    "country":"Japan"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Germany",
+    "capacity_units_per_month":3354
   },
   {
     "supplier_id":"SUP981",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "supplier_name":"Prime Materials",
+    "country":"UK",
+    "capacity_units_per_month":4023
   },
   {
     "supplier_id":"SUP982",
-    "supplier_name":"Prime Materials",
-    "country":"Germany"
+    "supplier_name":"ABC Technologies",
+    "country":"Japan",
+    "capacity_units_per_month":3562
   },
   {
     "supplier_id":"SUP983",
-    "supplier_name":"ABC Technologies",
-    "country":"Germany"
+    "supplier_name":"Reliable Industries",
+    "country":"Germany",
+    "capacity_units_per_month":1763
   },
   {
     "supplier_id":"SUP984",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":1408
   },
   {
     "supplier_id":"SUP985",
     "supplier_name":"ABC Technologies",
-    "country":"Japan"
+    "country":"India",
+    "capacity_units_per_month":2263
   },
   {
     "supplier_id":"SUP986",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Reliable Industries",
+    "country":"UK",
+    "capacity_units_per_month":4952
   },
   {
     "supplier_id":"SUP987",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Germany",
+    "capacity_units_per_month":4871
   },
   {
     "supplier_id":"SUP988",
-    "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "supplier_name":"Prime Materials",
+    "country":"UK",
+    "capacity_units_per_month":1995
   },
   {
     "supplier_id":"SUP989",
-    "supplier_name":"Sunrise Electronics",
-    "country":"USA"
+    "supplier_name":"Global Components",
+    "country":"Japan",
+    "capacity_units_per_month":1766
   },
   {
     "supplier_id":"SUP990",
-    "supplier_name":"Global Components",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":3264
   },
   {
     "supplier_id":"SUP991",
-    "supplier_name":"Global Components",
-    "country":"India"
+    "supplier_name":"Sunrise Electronics",
+    "country":"Germany",
+    "capacity_units_per_month":3512
   },
   {
     "supplier_id":"SUP992",
-    "supplier_name":"Global Components",
-    "country":"Germany"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":1150
   },
   {
     "supplier_id":"SUP993",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Japan"
+    "supplier_name":"Prime Materials",
+    "country":"USA",
+    "capacity_units_per_month":2203
   },
   {
     "supplier_id":"SUP994",
     "supplier_name":"ABC Technologies",
-    "country":"India"
+    "country":"India",
+    "capacity_units_per_month":3567
   },
   {
     "supplier_id":"SUP995",
-    "supplier_name":"Reliable Industries",
-    "country":"Japan"
+    "supplier_name":"ABC Technologies",
+    "country":"UK",
+    "capacity_units_per_month":608
   },
   {
     "supplier_id":"SUP996",
-    "supplier_name":"Sunrise Electronics",
-    "country":"Germany"
+    "supplier_name":"Global Components",
+    "country":"India",
+    "capacity_units_per_month":4721
   },
   {
     "supplier_id":"SUP997",
     "supplier_name":"ABC Technologies",
-    "country":"UK"
+    "country":"Japan",
+    "capacity_units_per_month":4539
   },
   {
     "supplier_id":"SUP998",
-    "supplier_name":"Reliable Industries",
-    "country":"Germany"
+    "supplier_name":"Prime Materials",
+    "country":"USA",
+    "capacity_units_per_month":4887
   },
   {
     "supplier_id":"SUP999",
-    "supplier_name":"Prime Materials",
-    "country":"USA"
+    "supplier_name":"Sunrise Electronics",
+    "country":"India",
+    "capacity_units_per_month":3453
   },
   {
     "supplier_id":"SUP1000",
-    "supplier_name":"ABC Technologies",
-    "country":"Japan"
+    "supplier_name":"Prime Materials",
+    "country":"India",
+    "capacity_units_per_month":2276
   }
 ]

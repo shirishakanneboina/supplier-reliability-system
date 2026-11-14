@@ -1,3 +1,4 @@
+
 import pandas as pd
 import random
 
@@ -31,7 +32,8 @@ def generate_suppliers(number_of_suppliers):
         supplier = {
             "supplier_id": f"SUP{i:03d}",
             "supplier_name": random.choice(supplier_names),
-            "country": random.choice(countries)
+            "country": random.choice(countries),
+            "capacity_units_per_month": random.randint(500, 5000)
         }
 
         suppliers.append(supplier)
