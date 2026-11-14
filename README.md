@@ -1,4 +1,3 @@
-
 # Supplier Reliability Scoring and Data Generation System
 
 ## Project Overview
@@ -70,7 +69,8 @@ Supplier-Reliability-System/
 │
 ├── docs/
 │   ├── PROJECT_DOCUMENTATION.md
-│   └── DATA_DICTIONARY.md
+│   ├── DATA_DICTIONARY.md
+│   └── SOURCE_MANIFEST.md
 │
 ├── prompts/
 │   └── AI_PROMPT_HISTORY.md
@@ -230,7 +230,7 @@ The expected decision for the generated anomaly cases is REJECT.
 
 ## Reproducibility
 
-The system uses a fixed random seed to ensure consistent synthetic data generation.
+The system uses a fixed random seed (`20261030`) to ensure consistent synthetic data generation.
 
 The reproducibility test generates the datasets twice and compares their checksums.
 
@@ -244,7 +244,7 @@ Latest result:
 
 **REPRODUCIBILITY TEST PASSED**
 
-All generated CSV datasets were identical across both runs.
+All 11 generated raw CSV datasets were identical across both runs, confirming reproducibility of the raw data generation process.
 
 ## Documentation
 
@@ -252,6 +252,7 @@ Additional project documentation is available in the `docs/` directory:
 
 - `PROJECT_DOCUMENTATION.md` – Project objectives, architecture, methodology, scoring, and implementation details.
 - `DATA_DICTIONARY.md` – Dataset entities, fields, descriptions, and relationships.
+- `SOURCE_MANIFEST.md` – Dataset generation sequence, source files, and export details.
 
 AI assistance and prompt history are documented in:
 
